@@ -1,0 +1,11 @@
+{
+  "name": "articles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/teonomia/articles.git",
+  "author": "alvaroseparovich <alvasepro@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
