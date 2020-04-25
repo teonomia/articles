@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Hearing CoyotesBy R. J. RushdoonyApril 30, 2007"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 255:9 (Dec. 12, 1981)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Last week, our youngest daughter and her family were here with us. After the fi"
+"rst night, she remarked about the coyotes yipping all night, very close to the "
+"house. I have not heard them for years. They are out there all the time, but I "
+"am so used to the sound, I no longer hear them. On the other hand, when I visit"
+" my daughter, I hear every car which goes up or down the street during the nigh"
+"t."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "All too often, we hear things without really heeding them. The sounds are there"
+", but we are so familiar and indifferent to them that we hear without hearing, "
+"and we pay no attention to them."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "This is what it means to be gospel-hardened. An older meaning of that term is s"
+"omeone who hears the gospel week in and week out without really listening to it"
+". One of the marks of such a gospel-hardened person is that he shows no growth,"
+" year after year."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Our Lord says, “Behold, I stand at the door, and knock” (Rev. 3:20). His knocki"
+"ng is not a pleading to enter but a summons either to communion or to judgment,"
+" and He will tolerate no lukewarmness (Rev. 3:15–16). I am almost always lukewa"
+"rm to the coyote’s voice, unless I think it may threaten the chicks. I dare not"
+" be lukewarm to the Lord’s voice."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "As a nation, we have long tuned out the Word of God. We buy Bibles in great num"
+"bers but do not read them. We hear the Word of God, and we listen with sleepy e"
+"ars. This means that we treat His Word as no more important than all the other "
+"words around us."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "We need rather to say, when we read His Word, or hear it read in church, Lord, "
+"“Speak; for thy servant heareth” (1 Sam. 3:10)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Culture "
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

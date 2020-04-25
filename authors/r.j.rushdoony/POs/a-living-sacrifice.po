@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "A Living SacrificeBy R. J. RushdoonyNovember 28, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Recently, a fellow pastor observed of a major non-Christian movement which has "
+"many followers that it was impotent. Its followers, he rightly observed, are ne"
+"ither ready to sacrifice for it or die for it."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Does his comment apply also to church members today? One of America’s most prom"
+"inent pastors has said that although we now have a higher percentage of church "
+"members than ever before, with 91 million adults claiming to be “born-again” Ch"
+"ristians, never before has the church been less influential in American life. O"
+"bviously, the level of commitment by these people is very low."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Paul in Romans 12:1 summons us to present our bodies as a living sacrifice to G"
+"od; he calls this our “reasonable service.” The term “body” in this verse stand"
+"s, by synecdoche, “for the complete man” (Vine’s Expository Dictionary of New T"
+"estament Words, 1940). It means that we can hold nothing back."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "I think of this verse often as pastors tell me of parishioners who are rebellio"
+"us against God’s truth, and whose basic premise is too often, “My will be done."
+"” The Lord requires a total commitment, even to death, and calls it our “reason"
+"able service.” In other words, God’s chief end is not to glorify man and to enj"
+"oy him forever! Rather, as the old catechism stated it, “The chief end of man i"
+"s to glorify God and to enjoy Him forever.” We can only enjoy God if He comes f"
+"irst in our lives and if we realize that whatever He requires of us is our “rea"
+"sonable service.” We can only serve and enjoy God on His terms, not on ours."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "When the Lord again has priority over and in us, and His law-word truly governs"
+" us, then we will have a very different church and country."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Christian Reconstruction, \n"
+"				"
+"													Church, The, \n"
+"																	Dominion, \n"
+"																"
+"	Reformed Thought"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

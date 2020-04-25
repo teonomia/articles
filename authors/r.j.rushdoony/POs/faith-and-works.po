@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Faith and WorksBy R. J. RushdoonyApril 02, 2007"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 271:2 (Aug. 12, 1989), p. 65."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "According to James, “[F]aith without works is dead” (James 2:26). The necessary"
+" relationship between faith and works is stressed by St. Paul (Rom. 3:31) and v"
+"ery strongly by the Lord (Matt. 7:16–29). Their words mean that if you act like"
+" a stinker, that’s what you are, whereas if you are godly in all your ways, you"
+" are godly. As the Lord says, a good tree brings forth good fruit, and a bad tr"
+"ee bad fruit. There is a consistency between faith and life."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Joel R. Beeke has described it this way: “Obedience comes spontaneously and is "
+"like fruit brought forth.” He says also that the “new birth infallibly issues i"
+"n new life.”"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "This, very simply, means that the Lord makes a great difference in a person’s l"
+"ife. We cannot excuse someone’s evil ways by saying that whatever his actions m"
+"ay be, his heart is still right with the Lord. To do so is grossly insulting to"
+" God; it implies that the regenerating power of His grace is impotent to change"
+" a person."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "When an earthquake hits, it makes a difference. When a tornado hits, you can se"
+"e the force of its movement. An earthquake and a tornado have little power comp"
+"ared to the regenerating grace of the Almighty."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "There are too many church people who claim to be saved and yet are no different"
+" from those around them who are without Christ. Is it any wonder some churches "
+"are powerless?"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The living church, the church filled with regenerate individuals, has always be"
+"en a mover and shaker on earth. God sends us people who can change the church a"
+"nd the world by His power."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Church, The, \n"
+"																	Culture , \n"
+"																	Domi"
+"nion"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

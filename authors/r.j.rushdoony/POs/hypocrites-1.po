@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "HypocritesBy R. J. RushdoonyAugust 27, 2005"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "(Reprinted from Bread Upon the Waters: Columns From The California Farmer [Fair"
+"fax, VA: Thoburn Press, 1974], 19–20.)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The word hypocrite comes from the classical Greek and meant one who played a pa"
+"rt on the stage. A hypocrite was an actor who wore a mask to represent a charac"
+"ter; the feelings and ideas he expressed were not his own because he was simply"
+" acting."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The meaning of hypocrite has not really changed since then. A hypocrite is a ma"
+"n who pretends to be something he is not; he is an actor, playing a part."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The modern hypocrite plays a part and pretends to be something he is not to mis"
+"lead other people. He believes himself to be superior to other people and able "
+"to fool them. He claims for example, to be a champion of equality; all men are "
+"equal, only some men, as Orwell noted, are more “equal” than others, and he is "
+"one of these superior ones. He believes in charity, but with other people’s mon"
+"ey and tax funds. He bleeds for the poor and hungry when it will bring votes, n"
+"ot because he cares. He pretends to be a Christian, but only because it is resp"
+"ectable to be one. Our Lord said of such men, “Woe unto you, scribes and Pharis"
+"ees, hypocrites! for ye are like whited sepulchres, which indeed appear beautif"
+"ul outward, but are within full of dead men’s bones, and of all uncleanness. Ev"
+"en so ye also outwardly appear righteous unto men, but within ye are full of hy"
+"pocrisy and iniquity” (Mt. 23:27–28)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "As in our Lord’s day, the church and especially the clergy is full of hypocrite"
+"s. They profess to be Christians, but in their hearts they despise the faith an"
+"d in their actions they reveal their dedication to revolution. They preach alie"
+"n gospels and subvert the Scriptures and piously claim to be the real Christian"
+"s and the true church."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In politics also we are overwhelmed with hypocrites. They profess to be for cap"
+"ital, labor, or the farmer, but the state and federal governments grow richer a"
+"nd more powerful, and the people’s properties grow more uncertain steadily. The"
+" more these politicians work to “save” us, the deeper we are in trouble."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "How shall we be rid of hypocrites? By refusing to be hypocrites ourselves. The "
+"woman who is impressed by a clotheshorse is a woman who is trying to be one her"
+"self. The “con man” never ends up with any money; he himself is an easy target "
+"for get-rich-quick schemes. The hypocrite is a salesman selling an idea, a fals"
+"e front, or himself, and so he is most impressed by more professional false fro"
+"nts. Hypocrisy feeds on hypocrisy. Hypocrites get into the pulpit easily, when "
+"there are many hypocrites in the pew, and hypocrites gain votes readily for pub"
+"lic office when they have millions of hypocrites to vote for them. St. James su"
+"mmoned believers to be “full of mercy and good fruits, without partiality [i.e."
+", without wrangling], and without hypocrisy” (Jas. 3:17). Help stamp out hypocr"
+"isy: live honestly before God and man, in faith and in obedience to God’s law."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Statism, \n"
+"																	Conspiracy, \n"
+"																	Justic"
+"e, \n"
+"																	Philosophy, \n"
+"																	Culture , \n"
+"					"
+"												Government, \n"
+"																	Epistles, The"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

@@ -1,0 +1,140 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "What Constitutes a Christian Education?By R. J. RushdoonyAugust 25, 2015"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	But what constitutes a Christian education? Sometimes Christian Schools a"
+"re Christian in name only: they are humanistic schools with Bible added to a hu"
+"manistic course of studies. It is a serious mistake to assume, first, of all, t"
+"hat there is any neutral subject which can be taught in the same way by both Ch"
+"ristian Schools and humanistic schools. To believe so is to deny God’s total so"
+"vereignty over all things. It means that areas exist where man, not God, is the"
+" Lord. There is no area of neutrality in all of creation. What we believe deter"
+"mines our perspective in mathematics, history, biology, geology, art, physical "
+"education, and everything else. The triune God is totally the creator of all th"
+"ings and thus totally their Lord and determiner. All subjects are either taught"
+" from a Biblical, a theistic perspective, or they are taught from a humanistic,"
+" a man-centered perspective."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Second, we must remember that facts are never neutral, as Cornelius Van Til has"
+" so powerfully taught us. Before there is a fact, there is a faith. The faith i"
+"nterprets and determines the facts. The “facts” of the universe are very differ"
+"ent for a Buddhist, an existential humanist, and an orthodox Christian. For the"
+" Buddhist, all is illusion and misery; his faith requires a world and life nega"
+"tion. Maya and karma determine all things. For an existential humanist, “facts”"
+" have only a purely personal meaning, the meaning which each man assigns them. "
+"Neither man nor creation have any essence, any created and preordained meaning."
+" Good and evil and every other form of meaning is self-generated: they are valu"
+"es I assign to things in terms of my will. Nothing has any meaning from God’s c"
+"reative act; all meaning comes from man’s creative act."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	In Biblical thought, however, every fact is God-created and God-interpret"
+"ed, so that the meaning of all creation is to be understood in terms of Him and"
+" His Kingdom. St. Paul makes clear to the Corinthians that"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "\n"
+"	\n"
+"		3. But with me it is a very small thing that I should be judged of"
+" you, or of man’s judgment: yea, I judge not mine own self.\n"
+"		4. For I know"
+" nothing by myself; yet am I not hereby justified: but he that judgeth me is th"
+"e Lord. (I Cor. 4:3,4)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	The word Paul uses for judge is anakrino, to examine, investigate, and qu"
+"estion. Paul simply says that he has no right to examine, inquire about, invest"
+"igate, question, and judge anything in terms of his own standards and tests. Si"
+"milarly, he has no regard for any and all such judgments made about himself. Th"
+"e only criterion for investigation and judgment is the Lord and His word, and e"
+"ven then God’s full and clear judgment will only be apparent plainly and totall"
+"y with the Last Judgment (I Cor. 4:5)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	The plain implication here and elsewhere is that all study and investigat"
+"ion must be in terms of God’s word and the fact of God’s sovereignty as creator"
+", sustainer, and Lord."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Third, not only does faith determine facts, but faith determines the mind. The "
+"humanistic philosophy of education gives priority to the humanistic mind. Intel"
+"lectualism is the determiner: it is the true morality. The greater the level of"
+" humanistic education, supposedly the greater the level of moral character will"
+" be. Salvation is thus seen as the spread of humanistic education and knowledge"
+" over all the face of the earth."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	For us, however, the spread of humanistic education is the spread of sin "
+"and apostasy. For us, education is even more to be desired than for the humanis"
+"ts, but it must be godly education and in terms of God’s whole counsel. Truth f"
+"or us is not humanistic ideas, faiths and facts, but Jesus Christ (John 14:6), "
+"and for us “truth is in order to goodness,” and also to true knowledge. A man c"
+"annot be holy or moral outside of Jesus Christ, nor can a man have true knowled"
+"ge apart from Him."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	This means that Christian textbooks are a necessity. We as Christians are"
+" members of another kingdom, the Kingdom of God. We live, not in a meaningless,"
+" blind, and evolving universe of chance, but in a universe totally created and "
+"governed by God the Lord. We dare not know anyone or anything apart from the Lo"
+"rd, because His Lordship, rule, and purpose are total. A school course which is"
+" not systematically Biblical is a hidden enemy to the faith. Humanism has no pl"
+"ace in our hearts, churches, homes, or classrooms."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Taken from The Philosophy of the Christian Curriculum, pp. 129-131"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Church, The, \n"
+"																	Education"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

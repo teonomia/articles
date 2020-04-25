@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "The Exaltation of a PeopleBy R. J. RushdoonyOctober 23, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 249:6 (Oct. 21, 1978), p. 42."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "It seems very remote now, but when the British began their war against the Amer"
+"ican colonies, they faced a problem. Loose women were too few in America to pro"
+"vide for the troops, so the British War Office contracted to have 3,500 street "
+"prostitutes transported to America. The women of England were mostly unwilling "
+"to go at any price to a “barbarous” land, so Captain Jackson had to fill his qu"
+"ota with Blacks from the West Indies; these latter women came to be known as “J"
+"ackson Whites.”"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "This and like actions turned many colonists against the mother country. It was "
+"noticed that very few Britishers had Bibles, and even fewer used them. To the A"
+"mericans, all this spelled evil, and the prospect of God’s judgment against the"
+" British. Even Jefferson, far from an evangelical in his opinions, believed tha"
+"t the British were sowing a harvest of judgment."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Over and over again, the colonial clergy stressed Proverbs 14:34, “Righteousnes"
+"s exalteth a nation: but sin is a reproach to any people.” To them, it was the "
+"Word of God, and an article of faith and life. Washington stressed the necessit"
+"y of seeking God’s favor by faithfulness to Him."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Were they right or wrong? Were they simple-minded for believing that righteousn"
+"ess (or, justice before God) is the most important element in a nation’s streng"
+"th, or were they wiser than the men of this generation?"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "If they were right, then we are very much off base. Then, far more serious than"
+" any constitutional deviation is our religious and moral waywardness. Righteous"
+"ness, the proverb tells us, lifts up and makes great a people, whereas sin brin"
+"gs a reproach or shame and disgrace to a nation. Faithfulness and justice befor"
+"e God bring grace, sin disgrace. The exaltation of a people is thus God’s handi"
+"work, and it is dependent upon our faithfulness to Him. The exaltation of natio"
+"ns is thus not political but, in the truest sense possible, religious. What men"
+" and nations do adds up finally to grace or disgrace from the hand of God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: American History, \n"
+"																	Biblical Law, \n"
+"												"
+"					Constitution, The, \n"
+"																	Culture , \n"
+"																	D"
+"ominion, \n"
+"																	Justice, \n"
+"																	Reformed Thought"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

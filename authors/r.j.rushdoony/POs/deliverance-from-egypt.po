@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Deliverance from EgyptBy R. J. RushdoonyMarch 19, 2007"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 262:3 (Feb. 2, 1985), p. 21."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "When God sent Moses to Pharaoh with the message, “Let my people go,” He added, "
+"“And I am sure that the king of Egypt will not let you go, no, not by a mighty "
+"hand” (Exod. 3:19). Why then did God order Moses to deliver the message?"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The confrontation served two purposes. First, it hardened Pharaoh’s heart. He b"
+"ecame all the more determined to resist Moses and His God, and he punished Isra"
+"el for God’s demands. Thus, things very definitely took a turn for the worse. O"
+"nly God’s judgment broke down Pharaoh’s resistance."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Second, Pharaoh, in punishing Israel, compelled the Israelites finally to stand"
+" with Moses. The people were cowardly and ready to continue in their slavery, b"
+"ut step-by-step they were driven to stand with Moses."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The Lord’s dealings with us are often the same. Before He delivers us, He incre"
+"ases the problems and the evils in order to make us more fully aware of the mor"
+"al problem, and to drive us to make a stand."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Thus, God’s intervention, before it brought deliverance, brought greater proble"
+"ms. The Israelites at first turned against Moses, not Pharaoh, as though Moses "
+"were their oppressor (Exod. 5:20–21). They were unwilling to believe that freed"
+"om does not come easily. Step by step, the Lord prepared them for their departu"
+"re from Egypt."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The people grew enough to leave the land of Egypt, but Egypt remained in their "
+"hearts. For this reason, God left them to die in the wilderness and took their "
+"children into the Promised Land."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Before the Lord can deliver you to your Promised Land, He must remove Egypt fro"
+"m your heart also. Are you too wedded to Egypt to lay hold of God’s promises?"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Old Testament History, \n"
+"																	Pentateuch"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

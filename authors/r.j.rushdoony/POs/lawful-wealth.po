@@ -1,0 +1,299 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Lawful WealthBy R. J. RushdoonyAugust 11, 2014"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	According to the Westminster Shorter Catechism, the question of acquiring"
+" wealth is directly related to the eighth commandment:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "\n"
+"	\n"
+"		Q. 73: Which is the eighth commandment?\n"
+"	\n"
+"		A: The eighth "
+"commandment is, Thou shalt not steal.\n"
+"	\n"
+"		Q. 74: What is required in th"
+"e eighth commandment?\n"
+"	\n"
+"		A. The eighth commandment requireth the lawfu"
+"l procuring and furthering the wealth and outward estate of ourselves and other"
+"s.\n"
+"	\n"
+"		Q. 75: What is forbidden in the eighth commandment?"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "\n"
+"	\n"
+"		A. The eighth commandment forbiddeth whatsoever doth or may unjust"
+"ly hinder our own or our neighbour’s wealth or outward estate."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Answer 75 had in mind the love of pleasure, drunkenness, gluttony, lazine"
+"ss, and theft and cited Proverbs 21:17; 22:20; 28:19, and Ephesians 4:28. Alexa"
+"nder Whyte saw this commandment as covering “all matters connected with the ear"
+"ning, saving, spending, inheriting and bequeathing of money and property.”1 Why"
+"te added,"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	All a man’s possessions, go back to the beginning of them, go down to the"
+" bottom of them, will always be found to represent so much self-denial, labour,"
+" industry. Obscure as may be the origin, history, and growth of this or that pa"
+"rticular estate, yet it must in its beginning have been due to some man’s obedi"
+"ence to the Creator’s law of labour and reward. “Be fruitful, and multiply, and"
+" replenish the earth, and subdue it.” This is the original charter of the right"
+" of property.2"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Whyte further added, “Akin to the habit of industry is the sister habit o"
+"f frugality and forethought.”3"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Capitalization is the accumulation of wealth, the conversion of work, sav"
+"ings, and forethought into tangible working assets. No progress is possible wit"
+"hout some measure of capitalization. It is a serious error to assume that socia"
+"lism and communism are opposed to capitalization or to capitalism; their opposi"
+"tion is simply to private capitalism, but their dedicated policy is to state ca"
+"pitalism. For the state to plan any program of progress, public works, or conqu"
+"est, work, frugality, and forethought are necessary. The work is exacted from t"
+"he people by force; the frugality or savings is again forced out of the people "
+"by means of wage controls, compulsory savings and bond-buying programs, and sla"
+"ve labor, the forethought is provided by the state planners."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	State capitalism is seriously defective for a number of reasons. Most not"
+"ably, first of all, it represents theft. The private capital of the people is e"
+"xpropriated, as well as their work and savings. It is thus a radically dishones"
+"t capitalization."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Second, forethought is divorced from work and frugality, that is, the planners "
+"are not the ones who provide the work and the sacrifice. As a result, the plann"
+"ers have no brake of immediate consequences imposed upon them. They can be prod"
+"igal in their waste of manpower and capital without bankruptcy, in that the sta"
+"te compels the continuance of their non-economic and wasteful planning. The con"
+"sequence is that, wherever planning is separated from work and savings, instead"
+" of capitalization, the result is decapitalization. Socialism is thus by nature"
+" imperialistic, in that it must periodically seize or annex a fresh territory i"
+"n order to have fresh capital to gut by expropriation. State capitalism is thus"
+" an agency of decapitalization."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Private capital is acquired basically in three ways, excluding private th"
+"eft as an illegal and immoral means. These three ways are by work, inheritance,"
+" and gift. Private capital must then be utilized by planning, and the loss is t"
+"he planner’s loss, so that there is an incentive to efficiency in private capit"
+"al, even where received by gift or by inheritance, which is lacking in state ca"
+"pitalism. The immediacy of consequences, the direct liability of the private ca"
+"pitalist to loss, makes private capital more responsible even where the private"
+" capitalist is a thief. Where criminal syndicates like the Mafia enter into bus"
+"iness, they do so with a ruthless eye towards profits and efficiency which is l"
+"acking in state capitalism."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Lawful wealth is that wealth which comes to man as he abides by God’s law"
+" and applies work, thrift, and forethought to his activities. Lawful wealth is "
+"a covenant promise; hence the warning by Moses in Deuteronomy 8:11-20, culminat"
+"ing in vs. 18 with the statement, “But thou shalt remember the LORD thy God: fo"
+"r it is he that giveth thee power to get wealth, that he may establish his cove"
+"nant which he sware unto thy fathers, as it is to this day.” Man must not say i"
+"n his heart, “My power and the might of mine hand hath gotten me this wealth” v"
+"s. 17). Wright’s comment on this is good:"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	The pride is most terrible and insidious because it flouts the plainest o"
+"f facts, by asserting the virtual deity of self: “My power and the might of my "
+"hand have gotten me this wealth” (vs. 17). Yet Israel must remember that the we"
+"alth is by God’s power, not her own, and it is given in accord with his covenan"
+"ted promises, not in payment for what the nation deserves (vs. 18). This is one"
+" of the strongest and most powerful passages in the Bible on this characteristi"
+"c and distressing problem of human life. Wealth here is not by natural right; i"
+"t is God’s gift. Yet man must beware of the terrible and self-destructive tempt"
+"ation to deify himself which comes with it.4"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	True wealth, godly wealth is a product of covenant blessings on work, thr"
+"ift, and foresight; it is inseparably connected with the law. The commandments "
+"are given “that ye may live, and multiply, and go in and possess the land” (Deu"
+"t. 8:1)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Scripture distinguishes throughout between godly wealth and ungodly wealt"
+"h. Wealth in itself therefore is not a sign of God’s favor; it can be a witness"
+" to theft and fraud. Wealth can be, however, a sign of God’s favor and an evide"
+"nce of covenantal blessings where accompanied by lawful means and godly faith."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	To return to the matter of capitalization, capitalization in a society re"
+"quires a background of faith and character. In every era of history, capitaliza"
+"tion is a product of the Puritan disposition, of the willingness to forego pres"
+"ent pleasures to accumulate some wealth for future purposes. Where there is no "
+"character, there is no capitalization but rather decapitalization, the steady d"
+"epletion of wealth. Society becomes consumption centered rather than productive"
+", and it begins to decapitalize the centuries-rich inheritance which surrounds "
+"it."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Thus, decapitalization is preceded always by a breakdown of faith and cha"
+"racter. Where men feel that private happiness is man’s purpose and goal rather "
+"than serving and glorifying God, and finding joy in Him, where men feel that li"
+"fe owes them something rather than seeing themselves as debtors to God, and whe"
+"re men feel called to fulfil themselves apart from God rather than in Him, ther"
+"e society is in rapid process of decapitalization."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	To return now to Deuteronomy 8:1, 18, the purpose of wealth is the establ"
+"ishment of God’s covenant; its goal is that man prosper in his task of possessi"
+"ng the earth, subduing it and exercising dominion over it. The means to lawful "
+"wealth is the covenant law, the law of God. Capitalization is thus a radical an"
+"d total task. Man must seek to subdue the earth and gain wealth as a means of r"
+"estitution and restoration, as means of establishing God’s dominion in every re"
+"alm. Wherever godly men establish their superior productivity and gain wealth, "
+"they thereby glorify God. Wealth in itself is good, and a blessing of the Lord."
+" It is trust in wealth rather than God which Scripture condemns (Ps. 49:6, 7). "
+"We are told that, “When Rehoboam had established the kingdom, and had strengthe"
+"ned himself, he forsook the law of the LORD, and all Israel with him” (II Chron"
+". 12:1). “The rich man’s wealth is his strong city, and as a high wall in his o"
+"wn conceit” (Prov. 18:11; cf. 10:15; BV, “The rich man’s wealth is his strong c"
+"ity and as a high wall—so he thinks”)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Godly wealth is basic to God’s purposes for the earth. It is a vital link"
+" in the task of restoration."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Benjamin Franklin, in his Memoirs, mentions a merchant named Denham, who "
+"failed in his business at Bristol, compounded with his creditors, and went to A"
+"merica. In a few years he accumulated a plentiful fortune, returned to England "
+"in the same ship with Franklin, called his creditors together to an entertainme"
+"nt, and paid the full remainder of his debts, with interest up to the time of s"
+"ettlement.5"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Personal restitution is godly, but much more is required. Man must restor"
+"e the earth, must make it truly and fully God’s kingdom, the domain in which Hi"
+"s law-word is taught, obeyed, and honored. Man must gain wealth and use it to t"
+"he glory of God, but, to gain lawful wealth, man must know and obey the law. Go"
+"dly wealth is to be acquired, held, and used in good conscience; it is a happy "
+"result of the covenant of God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	1. Alexander Whyte: A Commentary on the Shorter Catechism (Edinburgh: T. "
+"&amp; T. Clark, 1961: reprint), p. 145."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	2. Ibid., p. 145 f."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	3. Ibid., p. 146."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	4. G. Ernest Wright, “Deuteronomy,” Interpreter’s Bible, II, 389."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	5. John Whitecross: The Shorter Catechism Illustrated from Christian Biog"
+"raphy and History (London: Banner of Truth Trust, [1828] 1968), p. 114."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Taken from Institutes of Biblical Law, Volume 1, pgs. 522-525"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Business, \n"
+"																	Chr"
+"istian Reconstruction, \n"
+"																	Church, The, \n"
+"																"
+"	Conspiracy, \n"
+"																	Creeds, \n"
+"																	Culture , \n"
+"
+""																	Family &amp; Marriage, \n"
+"																	Government, \n"
+"
+""																	Justice, \n"
+"																	Statism, \n"
+"																"
+"	Economics"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

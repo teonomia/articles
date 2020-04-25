@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "“The Increase of His Government and Peace”By R. J. RushdoonyAugust 21, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer: 227:12 (Dec. 16, 1967), 22."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "One of the most important prophecies concerning the birth of our Lord is in Isa"
+"iah 9:6–7. Christ, eight centuries before His coming, is hailed as the “Wonderf"
+"ul, Counsellor, The mighty God, the everlasting Father, The Prince of Peace,” a"
+"nd it is declared that “the government shall be upon his shoulder.” This is the"
+" first great declaration concerning Christ and all government: the ultimate and"
+" absolute government of all things shall belong to Christ. The second great dec"
+"laration is that “[o]f the increase of his government and peace there shall be "
+"no end.” Christ, coming into a sinful and rebellious world to establish His dom"
+"inion as Lord and Savior, will in the face of all enmity and warfare increase H"
+"is power, government, and peace."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Next, we are told exactly how this shall be done: He shall “establish it with j"
+"udgment and with justice from henceforth even for ever,” or, as the Berkeley Ve"
+"rsion translates it, “[I]t is firmly established and supported in justice and r"
+"ighteousness from now on and forever.”"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Christ came into the world as the great prophet, priest, and king. As prophet, "
+"He speaks for God; as priest, He is man’s savior and advocate with the Father; "
+"as king, He rules over the world."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The world is in rebellion against that government. From these rebels and revolu"
+"tionists, we hear much talk about “peace,” and a great deal of hostility to gov"
+"ernment. But Isaiah tied the two together: “Of the increase of his government a"
+"nd peace there shall be no end.” True peace, in other words, is a product of tr"
+"ue government. When there is true law and order, then there is also true peace."
+" Abolish law and order, and you abolish peace and create a situation of revolut"
+"ionary warfare and anarchy. By abandoning Christ as Savior and King, by abandon"
+"ing His government and peace, we are moving into a world of perpetual warfare. "
+"We are engaged in “perpetual warfare for perpetual peace” because we are seekin"
+"g it without Christ. The old hymn states it best:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "Joy to the world! The Lord is come: Let earth receive her King."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "But the invitation of the song is then personal: “Let every heart prepare Him r"
+"oom.” We all long for godly law and order, for His government and peace. It mus"
+"t begin first of all in our own hearts. Most people are waiting for their husba"
+"nds, wives, children, neighbors, for all the rest of the world to be Christian,"
+" so that they can enjoy the luxury and peace of a godly world without any perso"
+"nal conversion, but there is no peace, says Scripture, to the wicked. But every"
+" man can know the peace of His government here and now, and in the face of all "
+"problems, if their hearts prepare Him room."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Apologetics, \n"
+"																	Biblical Law, \n"
+"																	"
+"Conspiracy, \n"
+"																	Culture , \n"
+"																	Government, \"
+"n"
+"																	Justice, \n"
+"																	Reformed Thought, \n"
+"				"
+"													Statism"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Old-Line AmericansBy R. J. RushdoonyMarch 21, 2016"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Our experiences as a child often color our thinking as adults."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	I lived as a child in California. My immigrant parents, refugees from Arm"
+"enia and the Turkish massacres, moved to California from New York a few weeks a"
+"fter my birth in 1916. We lived on a farm near Kingsburg, a Swedish town. Even "
+"when I was in high school, Kingsburg’s mayor, a Swede, spoke a heavily accented"
+" English. Besides the Swedes, there were Armenians, Danes, Portuguese, Japanese"
+", Mexicans, and a few others. When I started kindergarten, my English, like tha"
+"t of the other children, was limited. In the first grade, I met my first “real "
+"American,” an elderly woman teacher named Mrs. Pinkley. I have forgotten the na"
+"mes of others of my early teachers, but I remember hers, because we were all im"
+"pressed by this “real American.” Years later, I realized that a very few old-li"
+"ne Americans did live in the area, but none were near us."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	In the early 1920s, when my father became pastor of an Armenian church in"
+" Detroit, we left by train for that city. As a youngster, it was for me a great"
+" adventure as well as a major dislocation. On board the train, I was immediatel"
+"y interested in the man who seemed to me to be the most important man running t"
+"he train, and the strongest, the Pullman porter. He was also the first black ma"
+"n I had ever seen. I followed him around, to his tolerant amusement, and I bega"
+"n to ask questions. As a boy in Kingsburg, I knew that there all of us identifi"
+"ed people in terms of their country of origin: “What country does your family c"
+"ome from?” Accordingly, I asked him the same question, and, “What language did "
+"they speak?” The answers were surprising: he came from Chicago, and his family "
+"from Alabama. His grandparents? Alabama. His great-grandparents, his great-grea"
+"t-grandparents? He was amused: “As far back as I know, Alabama,” and all spoke "
+"English. I then knew that I had met my second “real American.”"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Looking back years later, I realized how right I was. Apart from the Indi"
+"ans, most of us are immigrant stock of relatively recent origin. Two groups hav"
+"e a long history here, the English and the Negroes, and both have English names"
+" and deep roots in the United States. These two groups best qualify as “old-lin"
+"e Americans” and “real Americans,” because their lives, culture, and outlook ar"
+"e most formed by an American tradition. The United States is their county in a "
+"deeper sense."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	The presidential candidacy of Jesse Jackson was a noteworthy step in Amer"
+"ican history, but it was not without some unhappy aspects. In particular, Jacks"
+"on played the role of the black outsider demanding entrance. Valid reasons for "
+"this stance are by no means lacking, but the more important and positive fact t"
+"hat needs emphasis and development is that of the insider."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	My perception as a child was right. Blacks are old-line Americans. As suc"
+"h, they have a major stake in American life in the protection and development o"
+"f their country."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	In Europe, there are growing hostilities against the large members of Mid"
+"dle Eastern minorities who came there after World War II to fill the needs for "
+"workers. In Africa, there are racial and intertribal hostilities of major chara"
+"cter. In Asia, we find that India, Pakistan, and other countries have ancient a"
+"nd explosive racial conflicts."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	The United States and the Americas are almost alone in working to relegat"
+"e such tensions to past history. In that effort, blacks have a necessary role a"
+"s old-line Americans working to strengthen and develop the American hope."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: American History, \n"
+"																	Culture "
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

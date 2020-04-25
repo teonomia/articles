@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Basic EducationBy R. J. RushdoonyDecember 11, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Education must be in the basics of life, or else it is miseducation and impover"
+"ishment. The three fundamental areas are, first, religious education. Since the"
+" triune God is the Creator, and the most important fact of life, because He is "
+"Life (John 14:6), to neglect Him in our schools is to educate for ignorance."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Second, the family is the central and basic institution on earth. It is our fir"
+"st school, church, vocation, government, and much, much more. To be ignorant of"
+" the importance of the family is to be educated as a fool. Our fundamental huma"
+"n relationship is all-important to our personal and national well-being. Its ne"
+"glect is criminal."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Third, education must emphasize the basic learning skills. Those skills and kno"
+"wledge are the tools of everyday life. To educate a child poorly is like sendin"
+"g a soldier into battle without a gun."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "This is why the Scriptures stress so strongly the importance of education. In D"
+"euteronomy, we have Moses’ summary of God’s law for families. In Proverbs, we h"
+"ave instruction for a young man. Throughout Scripture, the instruction of the w"
+"hole man is stressed."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "If we want to perish as a nation, we can do so easily, by neglecting basic educ"
+"ation. This is, in fact, what many are doing. We are producing an unfit generat"
+"ion of drugged youth who are stumbling through life towards death. This must be"
+" what we want, because too many of us work for it, and pay for it."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Education"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Church and GovernmentBy R. J. RushdoonySeptember 11, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 237:3 (Sept. 2, 1972), p. 36."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "One of the more serious examples of false or muddled thinking today is with a r"
+"egard to the use of the words “church” and “government.” When people say “gover"
+"nment,” they usually mean the state or federal government, and nothing could be"
+" more false. The Puritans knew better. The state for them was “civil government"
+".”"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Government meant first of all the self-government of the Christian man. There i"
+"s no more basic and important government in society than that. Government also "
+"means the family, a very important area of rule and authority. It means the sch"
+"ool, which governs the early lives of people, and it means also the church, a v"
+"ery essential area of government."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Our work governs us, as do our friends and relatives, and the people of our com"
+"munity, by their attitudes and opinions. Clubs and organizations we join also g"
+"overn us. The kinds of government are many. Civil government is an important on"
+"e among many, not the only one, and the most important government of all in hum"
+"an society (other than God’s) is self-government."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The same misuse appears with the word “church.” We usually mean by that word a "
+"religious institution, a denomination, or sometimes a building. The church, how"
+"ever, is first of all the mystical body of Christ, the true, living, and supern"
+"atural congregation of all the redeemed in time and in eternity. It is thus far"
+" greater than our church or its local building."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "We must be loyal to our particular visible church insofar as it is sincerely an"
+"d faithfully obedient to Christ and truly manifests and represents His Body, no"
+"t to perfection but with essential faith and obedience. We can sometimes be dis"
+"obedient to Christ by obeying “our church.”"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In any case, if we limit the meanings of church and government to an institutio"
+"n and a state, we have not only misused those words but also limited and impove"
+"rished our lives. Instead of seeing ourselves as the basic government in human "
+"society, we have handed over our lives to the civil government. We are the gove"
+"rnment, each in our conduct of our lives under God. To forget that is to take t"
+"he road to slavery."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Moreover, the true church is first and last Jesus Christ Himself and every part"
+"icular congregation insofar as it is faithful and obedient to Him. To limit the"
+" church to an institution is to put ourselves out of communion with Him who is "
+"the church."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The way we use these words tells us much about our time. A man speaks out of hi"
+"s heart and faith, and we have been trusting too much in things present, things"
+" as we see them, rather than in things as God ordained them. For as a man “thin"
+"keth in his heart, so is he” (Prov. 23:7)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Christian Reconstruction, \n"
+"																	Church, The, \n"
+"					"
+"												Culture , \n"
+"																	Government, \n"
+"																	R"
+"eformed Thought, \n"
+"																	Statism"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "GrowthBy R. J. RushdoonyOctober 11, 2017"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The Psalmist tells us of the godly man, “And he shall be like a tree planted by"
+" the rivers of water” (Ps. 1:3). It is very important to understand why the Bib"
+"le compares us to trees. The language of Scripture is not accidental; it is del"
+"iberate and inspired."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The significant fact of life about trees is they grow until they die. When they"
+" stop growing, they start dying. But as long as they are alive, they keep growi"
+"ng and increasing in size and strength. I recall as a boy how huge were some of"
+" the great old oaks, which then dotted the valley. "
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "A dead tree is an unsightly thing and, in some cases, dangerous. Branches can f"
+"all, or the whole tree can come down to damage things under it. We try to cut d"
+"own our dead trees as soon as possible to improve the appearance of our home or"
+" to make room for new growth in our orchard. "
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "But what about dead trees in the church? Remember, the Lord compares us to tree"
+"s, and, as long as the trees are alive, they grow. Over the years I have seen m"
+"any problems develop in churches, and almost always no-growth members are a maj"
+"or part of them. "
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "A tree that does not grow has lost the capacity to draw up life-giving water ou"
+"t of the ground. A churchman who does not grow is receiving no life from the wa"
+"ter of life, Jesus Christ. He may be planted by the rivers of water, but he is "
+"dead at the roots and can gain no sustenance. "
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "We have an obvious alternative: grow or die! \n"
+""
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "(Taken from A Word in Season, Vol. 7)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Apologetics, \n"
+"																	Dominion, \n"
+"																	Theo"
+"logy"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

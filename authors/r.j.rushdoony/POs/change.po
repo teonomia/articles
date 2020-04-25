@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "ChangeBy R. J. RushdoonyJanuary 08, 2007"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "I can remember well the California Farmer in its early days, under various name"
+"s now no longer used. A hen often paid for a subscription! The farm folks of th"
+"e post–World War I years read it from cover to cover. It was a very different w"
+"orld then—or was it? Things have changed, it is true, but mankind’s problems ar"
+"e essentially the same, and they can be summed up in one word: sin."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "One of my most memorable experiences, shortly after World War II ended, was hea"
+"ring a remarkable man speak about the new era of the atom bomb. I recall his na"
+"me, Samuel Moffett, and he concluded thus: The invention of the atom bomb makes"
+" no more difference than the invention of the bobby pin as far as man’s essenti"
+"al problem is concerned, his unwillingness to live in faithfulness to God, and "
+"to forsake evil."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Mankind makes its own problems, and nothing in men’s environment does men as mu"
+"ch harm as men’s own sins do. A fellow pastor, recently counseling a troubled m"
+"an, found quickly that the man wanted everything in his world to change, but no"
+"t himself. We cannot change our husband, wife, neighbor, employer, or anyone el"
+"se, but we can, by God’s grace, change ourselves, and this is where our respons"
+"ibility lies."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Few things are more distressing to pastors than such comments as this: “That wa"
+"s a wonderful sermon, pastor. I’m sorry my husband was not here to hear it, bec"
+"ause he needed it.” It is always easier to remember someone else’s sin! Our ess"
+"ential duty is to correct ourselves, to grow in grace, and to be grateful that,"
+" whether we live in 1919, or 1991, it is still God’s world and God’s time, and "
+"He does all things well."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Culture "
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "​  FamilyBy R. J. RushdoonyApril 24, 2017"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Adapted from The Institutes of Biblical Law, Vol. II: Law and Society"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Carle C. Zimmerman has pointed out that there are three types of families in hi"
+"story: the trustee, the domestic, and the atomistic families. The trustee famil"
+"y has central authority in a society: it is the basic power and institution, an"
+"d most government is in its hands. The trustee family sees its possessions and "
+"its work as an inheritance from the past to be transmitted to the future. The f"
+"amily wealth is thus not for private use but for the family's on-going life."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The domestic family is a weakening of the family's powers, with the state as ga"
+"iner. It is a transition stage to the atomistic family, when the totalitarian s"
+"tate is the on-going life and power, the main heir and the controller of inheri"
+"tance, and the source of direction for a society."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The family in Scripture is a trustee type of family, and Biblical law is geared"
+" to the family as trustee. This means that authority in the family, i.e., the a"
+"uthority of the husband and wife, is not personal but theological. This appears"
+" very clearly in Ephesians 5:21-33. The matter of family authority is theologic"
+"al. The husband's headship is established by God as a ministry through the fami"
+"ly. His authority, while resting in his person, is not personal; it is religiou"
+"s and theological. His authority is valid thus only insofar as he is faithful t"
+"o the word of God; when he departs from it, God will confound his authority. Wo"
+"men and children will then rule over men and be their oppressors (Isa. 3:4, 12)"
+"."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "All authority on the human scene, in the family, church, state, and school, as "
+"well as the vocations, is ministerial (Eph. 6:5-9) and theological rather than "
+"personal. The personal exercise of authority for the sake of power is the mark "
+"of the Gentiles, i.e., of unbelief (Matt. 20:25-29; Mark 10:35-45)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Since Biblical authority is a trusteeship from the Lord, it is basic to that au"
+"thority that it must be exercised in the name of the Lord for His Kingdom. What"
+" we are and have belongs neither to us, to the family, the church, or the state"
+", but to the Lord and His Kingdom. We must thus protect ourselves and our posse"
+"ssions from the attempts by an ungodly heir, or by the state, to gain possessio"
+"n over them as if the right of inheritance were a personal fact. Inheritance, h"
+"owever, is a theological principle, with an eschatological framework. It must s"
+"erve the purposes of God and His Kingdom, and its goal is the new creation, and"
+" all the glory of the earth made an inheritance of God's Kingdom."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Family &amp; Marriage"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

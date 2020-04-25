@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Rushdoony on the PastBy R. J. RushdoonyJanuary 05, 2010"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid ""[T]he Christian, while respecting the past, cannot involve himself too deeply "
+"with the past. To\n"
+""
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "o often, as we listen to others, and to ourselves, we find that the major conce"
+"rn of our lives, what we talk and think about, is what happened yesterday, the "
+"past. We grieve over the past, talk about it, rehash it endlessly, and thus sad"
+"den and distort the present and neglect the future. The problems of yesterday a"
+"nd today are very real, and they are inescapable in a fallen world. The test of"
+" a Christian is in part this: Christ having declared, 'Behold, I make all thing"
+"s new' (Rev. 21:5), do we work confidently under Him towards that goal, or are "
+"we endlessly troubled over who said and did what yesterday and today? Are we me"
+"rely reacting to what others say and do, or are we acting to reconstruct all th"
+"ings in terms of Jesus Christ? Are we more concerned with the sins and imperfec"
+"tions of others than our duty to build for the future?" ~ R. J. Rushdoony, Revo"
+"lt Against Maturity, p. 290"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Psychology"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

@@ -1,0 +1,76 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Breakdown and RenewalBy R. J. RushdoonyDecember 27, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 267:7 (Nov. 7, 1987), p. 41."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Forrest McDonald, one of the most prominent historians of American history and "
+"the U.S. Constitution, is the author of A Constitutional History of the United "
+"States. His last chapter is entitled “Breakdown” and is grim reading. The feder"
+"al government has become so big and unwieldy, he declares that it has “all but "
+"lost the ability to function.” By the 1980s, the United States had lost its abi"
+"lity to protect the lives, liberty, and property of the people; it could not es"
+"tablish justice, ensure domestic tranquility, provide for the common defense, o"
+"r promote the general welfare."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Behind this failure stands the greater failure, that of the American people. Th"
+"eir character has changed from Christian to pagan. There can be no good charact"
+"er in civil government if there is none in the people. You cannot make a good o"
+"melet with bad eggs."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Since the 1950s, missionaries coming home on furlough after six years abroad ha"
+"ve been shocked by the change in the country during their absence. One missiona"
+"ry told me he felt like a foreigner in his own hometown. What shocked him most "
+"was the indifference of many churches to the growing paganism all around them."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In 1988, the United States will have another election year. No matter who wins "
+"the presidency and other offices, nothing much will change until the people cha"
+"nge. No election as such can give us freedom. Only if God the Son makes us free"
+" are we free indeed (John 8:36)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: American History, \n"
+"																	Government"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

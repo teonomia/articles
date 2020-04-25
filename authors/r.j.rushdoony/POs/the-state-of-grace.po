@@ -1,0 +1,344 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "The State of GraceBy R. J. RushdoonyFebruary 13, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "(A condensed version from Revolt Against Maturity: A Biblical Psychology of Man"
+" [Vallecito, CA: Ross House Books, 1987], 171–183)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Those whom God has redeemed are in the state of grace, or the covenant of grace"
+". They are freed from the burden of sin and guilt, and the penalty of death, an"
+"d move in the freedom of grace."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "During World War II, one man was in action for a full eight years, during which"
+" time every noise meant a possible bombing or an enemy attack. His life was one"
+" of continual tension and pressure, as well as responsibility. All of this beca"
+"me a way of life and a normal condition, which he lived with in almost stoical "
+"resistance. Then, after the war, he awoke one night from a frightening nightmar"
+"e in which the enemy were attacking and his machine gun jammed. Shaking with fe"
+"ar and horror, he turned on the light to help shake off the nightmare. “The war"
+" is over,” he told himself. The words and the light pushed back the darkness an"
+"d the tension. His world was not without serious problems, but the war was over"
+", and with it all the lurking horror of a bloody death in dirt and mud. He had "
+"passed from one world into another, with relief and a sense of freedom."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "This man’s experience had a double aspect. First, there was the objective fact "
+"that the war was over. Second, there was the subjective freedom that came when "
+"the implications of peace came home to him. The state of grace is similar. The "
+"objective fact is that the welfare or enmity between God and man is ended by th"
+"e atoning and regenerating work of God in Christ. The subjective fact is the aw"
+"areness that comes to the redeemed man that his life is now one of peace and gr"
+"ace."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Thomas Boston, in Human Nature in Its Fourfold State, defined the state of grac"
+"e as “the state of begun recovery of human nature.” It is the work of reconstru"
+"ction begun in man, whereby he, having a new principle of life, begins to grow "
+"and to be remade in knowledge, righteousness, holiness, and dominion. Because h"
+"e is created in the image of God, man yearns for reconstruction; because he is "
+"a sinner, unregenerate man creates disorder and destruction instead. Margaret E"
+"lizabeth Austin, in the opening lines of her poem, “Charlie Sapiens,” describes"
+" this schizophrenia:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "Man is the only animal that keeps A place for everything, with nothing in it; V"
+"ainly he yearns for order; chaos creeps Higher around his body by the minute.[1"
+"]"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In the state of grace, instead of this destructive, sado-masochistic character "
+"of the state of depravity, man’s life is marked by growth. Personal and social "
+"growth are not normally desired by men and civilizations. Instead of growth, th"
+"ey desire to continue the present or return to the past. If men are revolutioni"
+"sts, they then seek to destroy the present order only to create a more static a"
+"nd unchanging order. The dream-states of socialists and communists is a rigid a"
+"nd inflexible order which has no room for growth or disagreement. Revolutionist"
+"s are thus usually far more reactionary than are conservatives, but both are al"
+"ike hostile to growth. Puritanism, because it emphasized the newness of the gos"
+"pel and the dimensions of relevance and growth, was quickly productive of scien"
+"ce and progress.…"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "…[T]he state of grace is not static nor past or present bound, but future orien"
+"ted. The state of grace is not without sin, but it is never without growth. St."
+" Paul made it clear that the sinner is “dead in trespasses and sins” (Eph. 2:1,"
+" cf. Col. 2:13) and therefore incapable of growth."
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "But God, who is rich in mercy, for his great love wherewith he loved us,  Even "
+"when we were dead in sins, hath quickened us together with Christ, (by grace ye"
+" are saved;) And hath raised us up together, and made us sit together in heaven"
+"ly places in Christ Jesus. (Eph. 2:4–6)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The characteristic of death is decay, that of life, growth. The regenerate man,"
+" being alive in Christ, will therefore grow. St. Paul compared the growth to th"
+"at of a child from babyhood and milk to maturity and meat (1 Cor. 3:1–2, Heb. 5"
+":12–14)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "An often painful experience, one that separates us from family and friends, is "
+"their inability to grow, so that it becomes difficult to talk to people we love"
+" but have long since outgrown."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The conservative, fearful of the present and future, looks backward only. The r"
+"evolutionist is also past-bound: his vision is one of destruction for the past "
+"and present and a static, unchanging utopia for the future. Neither is capable "
+"of growth, and victory then goes to those who destroy the most. Man in the stat"
+"e of grace is more conservative than the political conservatives: he has a sure"
+"r grasp of the past and present because he assesses it in terms of the word of "
+"God. He is also more radical than the revolutionist because he has a principle "
+"of growth in him that requires continual change and progress in terms of the wo"
+"rd of God…."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "When men hope for social reform by some means other than the grace of God in th"
+"e salvation of individual men, they are declaring that evil is in the environme"
+"nt rather than in man."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The state of grace reveals itself in many by a delight in the word of God, a re"
+"adiness to grow therein, and an ability to endure the hot sun of adversity and "
+"grow stronger in the faith. The word of God that finds “good ground,” or a rege"
+"nerate heart, brings forth fruit: there is growth and production (Matt. 13:1–23"
+"). Because growth is a characteristic of life, it is a characteristic of the st"
+"ate of grace."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The state of grace also manifests itself in true freedom, in “the glorious libe"
+"rty of the children of God” (Rom. 8:21). The unregenerate talk much of liberty,"
+" but by this they mean only freedom from God and His law; beyond that, they are"
+" lovers of tyranny…."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Law is an aspect of the nature of God, and, because man is created in God’s ima"
+"ge, he finds self-expression as a law-creature. Because of sin, this law-expres"
+"sion is a perverted one. When the law becomes identified with the will of man, "
+"it comes to mean the power to inflict and to degrade…. When mediated by science"
+", this perverted law-expression, predestination by man, becomes a dream of tota"
+"l control…."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "God, however, as the absolutely sovereign and free being, who predestinates all"
+" things according to His sovereign will, has created us in His image. This mean"
+"s that our destiny is the freedom of a secondary cause, of a creature, and our "
+"regeneration reestablishes us in this freedom. The law-expression of man is the"
+"n his free and willing service to God and his obedience to the law-word of God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The rise of humanism, and its steady destruction of Christian morality, has mea"
+"nt the loss of liberty and the rise of tyranny. The Inquisition of the Middle A"
+"ges was in violation of Biblical law and principles, but, at its worst, it vict"
+"imized individuals, whereas, especially since the French Revolution, humanism h"
+"as victimized men wholesale, killing them by the millions and subjecting the li"
+"ving to the most ruthless tortures."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The state of grace is also called the covenant of grace because it is life in t"
+"he family of Christ. The state of grace is life within Christ, and it means fir"
+"st of all community with the triune God. The community sought by humanism is de"
+"structive of the individual, just as its individualism is atomistic, since ther"
+"e is no sound doctrine of the one and the many.[2]…"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "God’s covenant promise of Genesis 17:7 is, “I will … be a God unto thee, and to"
+" thy seed after thee.” The community is a continuing one, and its essence is Go"
+"d’s providential and protecting care."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid " How does a man know if he is in the state of grace? It is a poor test to be ab"
+"le to say that on a particular date at a revival meeting one was converted. Not"
+" everyone can, indeed most Christians cannot, date their regeneration. The test"
+" is not dating, but the character and fruits of grace. As Thomas Boston stated "
+"it:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "All men in the state of grace are born again. All gracious persons, namely such"
+" as are in a state of favour with God, and endowed with gracious qualities and "
+"dispositions, are regenerate persons.[3]"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Clearly persons in the state of grace are not those who say they are, but those"
+" of whom God says these are His people, which He declares by the gracious quali"
+"ties, dispositions, and works He manifests in and through them. To be in the st"
+"ate of grace means thus to serve and glorify God and to enjoy Him, and to unite"
+" with His people in His service and praise. This means far more than an institu"
+"tional loyalty, nor is it even primarily such an allegiance. St. John declared,"
+" “And hereby we do know that we know him, if we keep his commandments” (1 John "
+"2:3), words that echoed our Lord’s declaration, “Not every one that saith unto "
+"me, Lord, Lord, shall enter into the kingdom of heaven; but he that doeth the w"
+"ill of my Father which is in heaven” (Matt. 7:21). The Westminster Confession o"
+"f Faith summed up the matter thus:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "Although hypocrites, and other unregenerate men, may vainly deceive themselves "
+"with false hopes and carnal presumptions of being in the favor of God and estat"
+"e of salvation; which hope of theirs shall perish: yet such as truly believe in"
+" the Lord Jesus, and love him in sincerity, endeavoring to walk in all good con"
+"science before him may in this life be certainly assured that they are in a sta"
+"te of grace, and may rejoice in the hope of the glory of God; which hope shall "
+"never make them ashamed. (Chap. XVIII, sect. I)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In the Larger Catechism, the assurance of the state of grace is stated more ful"
+"ly:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "Q. 79. May not true believers, by reason of their imperfections, and the many t"
+"emptations and sins they are overtaken with, fall away from the state of grace?"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "A. True believers by reason of the unchangeable love of God, and his decree and"
+" covenant to give them perseverance, their inseparable union with Christ, his c"
+"ontinual intercession for them, and the Spirit and seed of God abiding in them,"
+" can neither totally nor finally fall away from the state of grace, but are kep"
+"t by the power of God through faith unto salvation."
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "Q. 80. Can true believers be infallibly assured that they are in the estate of "
+"grace, and that they shall persevere therein unto salvation?"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "A. Such as truly believe in Christ, and endeavor to walk in all good conscience"
+" before him, may, without extraordinary revelation, by faith grounded upon the "
+"truth of God’s promises, and by the Spirit enabling them to discern in themselv"
+"es those graces to which the promises of life are made, and bearing witness wit"
+"h their spirits that they are the children of God, be infallibly assured that t"
+"hey are in the estate of grace and shall persevere therein unto salvation."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Since grace is God’s work in the life of man, God neither undoes His work, nor "
+"can man undo it. Those whom God saves are eternally saved."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Since it is regenerating grace which leads a man to hear the word of God and to"
+" be converted, man is thus in a state of grace when he responds to the words of"
+" God. The grace, which is prior to conversion and which causes a man to hunger "
+"and thirst for righteousness and to mourn over his sins, is prevenient grace. P"
+"revenient grace changes the heart of man from enmity to God to a readiness to h"
+"ear His word. It is, as the word prevenient indicates, the grace which goes bef"
+"ore conversion to effect the work of regeneration."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The state of grace, is, as we have seen, a state of growth. It leads to a growi"
+"ng person and a progressing society. The society of fallen man can be marked by"
+" revolutions in certain phases of its history, but its basic purpose is to esta"
+"blish an unchanging order; whether it was ancient Chinese society, the Incas of"
+" Peru, or modern Marxist theory, its hope is a static order, in brief, the grav"
+"eyard society to which freedom is a “threat” and growth has no place. Thus, B.F"
+". Skinner of Harvard in Beyond Freedom and Dignity sees only disaster ahead unl"
+"ess controls replace freedom."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The graveyard society of science, sociology, and humanism is inescapable unless"
+" men are in a state of grace. Men in the state of grace reign with Christ (Eph."
+" 2:4–6); Christ, who rules all things in time and eternity, empowers His people"
+" to establish that reign in history (Matt. 28:18–20). Men in the state of grace"
+" will do more than grow: they shall conquer and reign."
+msgstr ""
+
+##HTML: <div >{{#c}}</div>
+msgid "[1] Published by the Alumni Association of Montana State College, Bozeman, Mont"
+"ana, in Arrowy Time, quoted by Wayne E. Oates, Anxiety in Christian Experience "
+"(Philadelphia: Westminster Press, 1955), 132.[2] See R.J. Rushdoony, The One an"
+"d the Many (Nutley, NJ: The Craig Press, 1971).[3] Thomas Boston, Human Nature "
+"in Its Fourfold State (Evansville, IN: Sovereign Grace Edition, 1957), 132."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Reformed Thought, \n"
+"												"
+"					Statism, \n"
+"																	Family &amp; Marriage, \n"
+"															"
+"		Theology, \n"
+"																	Culture , \n"
+"																	Government, \"
+"n"
+"																	Eschatology, \n"
+"																	Epistles, The, \n"
+"			"
+"														Gospels, The, \n"
+"																	Justice, \n"
+"															"
+"		Dominion, \n"
+"																	Church History, \n"
+"																	Old Tes"
+"tament History, \n"
+"																	Church, The, \n"
+"																	Christ"
+"ian Reconstruction, \n"
+"																	Socialism, \n"
+"																	Amer"
+"ican History, \n"
+"																	World History"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

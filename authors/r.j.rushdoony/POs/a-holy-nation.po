@@ -1,0 +1,118 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "A Holy NationBy R. J. RushdoonyDecember 03, 2014"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	The covenant people must establish a holy, covenant nation: Exodus 19:6; "
+"22:31; 23:24f.; Leviticus 19:2; Deuteronomy 7:6; 14:2, 21; 26:18-19. In all the"
+"ir ways, God’s people must manifest their holiness. Their every activity, to th"
+"e very food they eat, must show that they have an unrestricted dedication and d"
+"evotion to God and His law-word."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Here as elsewhere God gives no punitive power to man. Just as violation o"
+"f the dietary laws brings its own penalties upon us, and just as a disregard fo"
+"r God’s law limiting the extent of debt brings judgment upon us, so too a peopl"
+"e’s refusal to be a holy nation is its own punishment."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	To be a holy nation means that God’s purposes prevail over personal and n"
+"ational wishes. In Exodus 19:6, this means being “a nation of priests.” A pries"
+"t dedicates himself and all that he has to God’s service. A nation must likewis"
+"e be a holy nation."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Our holiness is apparent in the details of life. Thus, our diet must not "
+"include an animal, even if a clean one, that is torn by wild animals. Such meat"
+" must be given to the dogs (Ex. 22:31)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	This also means no participation in pagan worship. Paganism cannot be all"
+"owed at any public function. Obedience here will bring health and prosperity, a"
+"nd the implication is that disobedience will bring the reverse (Ex. 23:24f.)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Because God is holy, we must be holy (Lev. 19:2). Holiness will bring the"
+" blessing of God (Deut. 7:6-11). God has chosen us by His grace and mercy; our "
+"actions must manifest our gratitude (Deut. 14:2-3, 21). We gain greatly by our "
+"covenant obedience (Deut. 26:18f.)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	The emphasis in the idea of a holy nation is on God’s grace, and then on "
+"our gratitude. Disobedience begins with the illusion that God’s covenant law is"
+" a restraint upon a people’s freedom rather than the ground of it. To see God’s"
+" law as a limitation on us rather than our empowerment is the beginning of apos"
+"tasy."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	More than once in history, Christian nations have seen themselves as a ne"
+"w Israel of God. There is nothing wrong with this, and Paul in Galatians 6:16 s"
+"ees the Christian community as “the Israel of God.” That this concept has been "
+"abused does not diminish the fact that the churches and the nations are called "
+"to be God’s chosen peoples and instruments."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Apart from this calling to be a holy nation, the various states pursue a "
+"course of self-aggrandizement, humanistic messiahship, and pragmatism. To be a "
+"holy nation means to see the priority of God and His law in all things, and to "
+"make true justice the goal of society."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Taken from The Institutes of Biblical Law, Vol. 3, p. 83. Get your print copy t"
+"oday!"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Theology"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

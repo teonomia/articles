@@ -1,0 +1,73 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Rushdoony on Christ&#039;s KingshipBy R. J. RushdoonyJune 23, 2009"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In contemporary church and state trials, the language of state theology is ... "
+"far-reaching in its claims. In no trial of churches, Christian schools, home sc"
+"hools, or parents in which I have been involved has there been any question as "
+"to the superior educational achievements and training of youth on the part of C"
+"hristians. This, however, is considered usually an irrelevant issue because the"
+" main concern of the state is to maintain its claims to sovereign jurisdiction."
+" The issue is thus a religious one: who is the Lord, Christ or Caesar? Who is t"
+"he Sovereign? We are plainly told by Scripture, not that Jesus will be King and"
+" Lord, but that Jesus Christ “IS the blessed and ONLY Potentate, the King of ki"
+"ngs, and Lord of lords” (1 Tim. 6:15). Because He is the King here and now and "
+"forever more, His law-word must govern us now and always, and all things must b"
+"e reordered and remade to conform to His royal word. No sphere of life is exemp"
+"t from His government, and not an atom of creation was created apart from Him o"
+"r has any right to independence from Him. Christ is not lord over merely a corn"
+"er of creation, nor only the church, but over all things. He is not less than G"
+"od but very God of very God as well as very man of very man. There can be no ju"
+"stice or righteousness in man nor in society apart from Jesus Christ as Savior "
+"and King."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Moreover, no more than the Romans could lock up Jesus Christ inside a sealed to"
+"mb can the churchmen of our day confine Him to the church. If they continue to "
+"try to lock Him into the church, He will shatter the church as He did the tomb,"
+" and leave it empty as He emerges to rule the world, for He “is the blessed and"
+" only Potentate, the King of kings, and Lord of lords” (1 Tim. 6:15)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "{excerpted from Sovereigntyby RJ Rushdoony}"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Dominion, \n"
+"																	Theology"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

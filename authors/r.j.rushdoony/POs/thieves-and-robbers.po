@@ -1,0 +1,99 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Thieves and RobbersBy R. J. RushdoonySeptember 15, 2005"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Jesus declared, “I am the door of the sheep,” a figure of speech meaning that H"
+"e alone is the way to salvation. “All that ever came before me are thieves and "
+"robbers” (Jn. 10:7, 8). All other religious leaders (other than the Biblical wr"
+"iters who spoke of Him and declared His Word) are enemies of man, “thieves and "
+"robbers.” That included Confucius, Socrates, Buddha, Mohammed, and others, for,"
+" as one Biblical scholar has stated, the expression is exclusive and takes in p"
+"ast, present, and future. Jesus was emphatic: He alone is the truth: “I am the "
+"way, the truth, and the life: no man cometh unto the Father, but by me” (Jn. 14"
+":6)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The premise of our Lord’s statement is a clear-cut one: truth is exclusive; it "
+"cannot include a lie. But no idea is more alien to our modern temper. We want a"
+" foot in every camp; we want to eat our cake and have it too. We want God, but "
+"with no offense to Satan."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "But truth is exclusive; it is not tolerant. If two plus two equals four, it is "
+"not true that it equals three or that it equals five, nor can we say that a chi"
+"ld who answers three or five is “almost right.” The answer is either right or w"
+"rong. We cannot say that a man is a persistent liar and at the same time call h"
+"im honest and trustworthy. We cannot say that a man is a thief and at the same "
+"time insist that he respects other people’s rights and properties."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "But, of course, this is what we are trying to say. And we are trying to break d"
+"own the exclusiveness of truth and the very idea that there is a right and wron"
+"g. A child recently brought home an arithmetic problem which began, “If 8 is gr"
+"eater than 15….” If 8 is greater than 15, then a lie can be greater than the tr"
+"uth because no absolute standard remains. And we are destroying absolute standa"
+"rds. We are justifying the lawbreaker and the criminal, and condemning the hone"
+"st and the hardworking. Our world is in rebellion against truth and the law of "
+"truth."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "There is, however, an unchanging hardness about truth. Jesus said, “I am … the "
+"truth …; no man cometh unto the Father but by me.” Jesus expressed not a hope, "
+"but a hard reality. There is no other way. Men either live by truth, or it kill"
+"s them. If a businessman treats $8 as greater than $15, he is soon bankrupt. A "
+"nation that coddles its criminals and penalizes its godly citizens must either "
+"change or perish. Our Lord said, “Ye shall know them by their fruits. Do men ga"
+"ther grapes of thorns, or figs of thistles?” (Mt. 7:16)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Truth is exclusive in every area, in religion, science, farming, and all things"
+" else. If you don’t believe it, go pick your grapes from thorns, and your figs "
+"from thistles."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Justice, \n"
+"																	Philosophy, \n"
+"																	Theolo"
+"gy, \n"
+"																	Culture , \n"
+"																	Gospels, The"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

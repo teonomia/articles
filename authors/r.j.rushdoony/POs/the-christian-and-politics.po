@@ -1,0 +1,237 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "The Christian and PoliticsBy R. J. RushdoonyJuly 26, 2016"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "One of the unhappy facts of our day is the gap between evangelical Christianity"
+" and political action. We have, on the one hand, those whose religion is politi"
+"cs; they expect more than justice from the political order: they expect salvati"
+"on. A political cause becomes their religion. On the other hand, we have those "
+"who say that, because Christ is their Savior, they are not interested in the “d"
+"irty business” of politics. Both attitudes are clearly wrong and dangerous as w"
+"ell. For the Christian to separate himself from political action is to separate"
+" himself from responsibility, and to separate himself from responsibility is to"
+" separate himself from God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "What we have seen in U.S. politics is a departure from Christian American const"
+"itutionalism. In a very important speech, delivered on March 2, 1930, a promine"
+"nt American declared that the Constitution gave the federal government no right"
+" to interfere in the conduct of public utilities, of banks, of insurance, of bu"
+"siness, of agriculture, of education, of social welfare and of a dozen other im"
+"portant features. In these, Washington must not be encouraged to interfere."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "He went on to condemn the idea that “master minds” or a brain-trust could be tr"
+"usted with the powers of decision or regulation:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "The doctrine of regulation and legislation by “master minds” in whose judgment "
+"and will all the people may gladly and quietly acquiesce, has been too glaringl"
+"y apparent at Washington during these past years. Were it possible to find “mas"
+"ter minds” so unselfish, so willing to decide unhesitatingly against their own "
+"personal interests or private prejudices, men almost god-like in their ability "
+"to hold the scales of Justice with in even hand, such a government might be to "
+"the interest of the country, but there are none such in our political horizon, "
+"and we cannot expect a complete reversal of all the teachings of history. Now t"
+"o bring about government by oligarchy masquerading as democracy, it is fundamen"
+"tally essential that practically all authority and control be centralized in ou"
+"r National Government. The individual sovereignty of our States must first be d"
+"estroyed, except in mere minor matters of legislation. We are safe from the dan"
+"ger of any such departure from the principles on which this country was founded"
+" just so long as the individual home rule of the States is scrupulously preserv"
+"ed and fought for whenever it seems in danger."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The Governor went on to cite the limited “powers delegated to the United States"
+" by the Constitution.” They are, briefly, 1) the military power for the purpose"
+"s of defense, 2) the treaty-making power, “and the sole right of intercourse wi"
+"th foreign States”, 3) the issue of money and its protection from counterfeitin"
+"g, regulation of weights and measures, foreign commerce, protection of patents "
+"and copyrights, post offices, and minor Federal tribunals in the states, and 4)"
+" the power to collect taxes, duties and imposts, to pay the debts for the commo"
+"n defense and general welfare of the U.S. The Governor added,"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "On such a small foundation have we erected the whole enormous fabric of Federal"
+" Government which costs us $3,500,000,000 every year, and if we do not hold thi"
+"s steady process of building commissions and regulatory bodies and special legi"
+"slation like huge inverted pyramids over every one of the simple Constitutional"
+" provisions, we shall soon be spending many billions of dollars more."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "What was absolutely necessary, the Governor declared, was a return to basic pri"
+"nciples:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "But what are the underlying principles on which this Government is founded? The"
+"re is, first and foremost, the new thought that every citizen is entitled to li"
+"ve his own life in his own way as long as his conduct does not injure any of hi"
+"s fellow men."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Who was this speaker? It was Governor Franklin Delano Roosevelt of New York, cr"
+"iticizing the leftward drift of the Hoover administration!"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Let us glance briefly at another speech, delivered in Austin, Texas, on May 22,"
+"1948 by Lyndon B. Johnson:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "The civil rights program, about which you have heard so much, is a farce and a "
+"sham…an effort to set up a police state in the guise of liberty. I am opposed t"
+"o that program. I fought it in the Congress. It is the province of the state to"
+" run its own elections."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Both men were right the first time. They sinned with knowledge and against know"
+"ledge. And this is not surprising. When men are without Christian character, th"
+"ey will choose the way of power rather than of truth and integrity. Where there"
+" is a moral disintegration, there is no assurance that an elected candidate wil"
+"l maintain a professed position. The number of elected conservatives who have s"
+"witched sides is legion; they crumbled under pressure and under the temptations"
+" of power. There is thus little assurance that an election will gain any result"
+"s, if there is no assured faith and character in the elected man. And politics "
+"cannot produce character: Christianity must. The decline of faith is a decline "
+"of character and a decline of character is the forerunner of political decay an"
+"d collapse. Christianity has an obligation to train a people in the fundamental"
+"s of God’s grace and law, and to make them active and able champions of true po"
+"litical liberty and order."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In 1776, in a letter to John Scollay, Samuel Adams wrote, “I have long been con"
+"vinced that our Enemies have made it an Object, to eradicate from the Minds of "
+"the People in general a Sense of true Religion and Virtue, in hopes thereby the"
+" more easily to carry their Point of enslaving them.” How much more true this i"
+"s now of every subversive agency, and how tragic and desperately wicked that th"
+"e churches are themselves a major force in working for this eradication of fait"
+"h and character. And this eradication is basic to man’s enslavement."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Am I advocating political preaching by the clergy, and is not this position too"
+" close to the social gospel attitude of political involvement? The answer on bo"
+"th counts is no."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Two similar questions have been received: What is the relation of clergy and po"
+"litics? Should men in the pulpit speak out on social and political questions, a"
+"nd, if so, under what circumstances? Answer: The clergy cannot faithfully expou"
+"nd the Word of God without dealing with virtually every social and political qu"
+"estion. The Bible speaks not only about salvation but about God’s law with resp"
+"ect to the state, money, land, natural resources, just weights and measures, cr"
+"iminal law, and a variety of other subjects. The clergy are not to intermeddle "
+"in politics, but they must proclaim the Word of God. There is a difference: pol"
+"itical intermeddling is a concern over partisan issues: preaching should be con"
+"cerned with Biblical doctrines irrespective of persons and parties."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Too many clergymen are operating with a “shorter Bible”, one limited to a fairl"
+"y few passages and pages. One class of “shorter Bible” preachers are the modern"
+"ists, who refuse to believe most of the Bible and limit themselves mainly to a "
+"few chapters, such as those that talk about love. The other class of “shorter B"
+"ible” preachers claim to believe all the Bible but they drop almost everything "
+"except passages dealing with the saving of souls. These men are too spiritually"
+" minded to be of much earthly good."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The excuse of this second group, who are Pietists, is that the law has been don"
+"e away with by grace, and so there is no reason to preach the law of God. This "
+"is false doctrine. The law is done away with only as an indictment against us; "
+"it stands as the righteousness of God which we must uphold. Every aspect of the"
+" Old Testament law still stands, except those aspects of the ceremonial and pri"
+"estly law specifically fulfilled by the coming of Christ, and those laws specif"
+"ically re-interpreted in the New Testament. We are saved from the law as an ind"
+"ictment but not to break the law freely. Is the law done away with and the Chri"
+"stian “free” to kill, commit adultery, or steal? Rather the Christian is saved "
+"to be able to live in and under God’s law and the law now is written on the tab"
+"les of his heart."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "We are used to talking about the apostasy of the modernist clergy. Equally seri"
+"ous, if not more so, is the apostasy of the clergy who claim to believe the Bib"
+"le but surrender the world to the devil, who refuse to proclaim the whole couns"
+"el of God to man."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The Bible is totally relevant to our world, and it must be so preached. Men are"
+" not given grace to despise the law but to enable them to keep the law. We have"
+" a lawless land because we have lawless preachers. The Bible speaks plainly in "
+"many passages on debt, theft (by individuals or by the state), on justice, and "
+"other matters. Is it not a contempt of God’s word to neglect these passages? Sa"
+"lvation must be the starting point of all preaching, but, if our preaching be l"
+"imited to this only, we are doing two things. First, we are, like the modernist"
+"s, tossing out more of the Bible. Second, we are limiting God’s word only to wh"
+"at concerns our own souls, a very humanistic emphasis."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "An interesting aspect of colonial Puritan preaching was the election sermon, se"
+"rmons on fundamental moral issues preached before every election to instruct pe"
+"ople in the Biblical mandate. Modernistic social gospel preaching is relevant t"
+"o our world, but it is anti-biblical in its perspective. What we need is releva"
+"nt biblical preaching of the whole Bible, not only on doctrines or social issue"
+"s of interest to us but on all that the Bible teaches."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Taken from Roots of Reconstruction, pp. 550-553."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Culture , \n"
+"																	Government, \n"
+"																	Justi"
+"ce, \n"
+"																	Statism, \n"
+"																	Theology"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

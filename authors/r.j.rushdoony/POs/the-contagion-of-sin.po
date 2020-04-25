@@ -1,0 +1,82 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "The Contagion of SinBy R. J. RushdoonyMay 17, 2017"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In Haggai 2:12–19, God drives home a very telling point to the prophet. If we p"
+"lace an unclean thing together with a clean one, the cleanness of the latter wi"
+"ll not rub off onto the former. If I rub my dirty and ink-stained hands on a cl"
+"ean towel, the cleanness of the towel will not rub off onto my hands: rather it"
+" is dirt that is transferred, and the towel becomes dirty."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "By this means the Lord made clear to Haggai and Judah that sin is contagious, b"
+"ut righteousness is not. We are not Christians simply because we belong to a go"
+"od church, a good family, or a fine community. Moreover, a good profession of f"
+"aith does not make us holy or godly."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Sin and injustice are all around us, and they readily rub off on us if we are n"
+"ot careful. To stand against this requires faith: it means that, being regenera"
+"te, we are governed by the power of God, not by the pressures of the group. We "
+"go against the current rather than with it, because the currents of our time ar"
+"e replete with injustice and ungodliness. We do not allow our speech to be gove"
+"rned by tale-bearing and nonsense but by grace and consideration.\n"
+" "
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In our day, we have exalted the feelings of the group to the place of God. “Gro"
+"up dynamics” has replaced morality, and all too many people respond to peer pre"
+"ssure rather than the law-word of God. For such people, the law is what people "
+"think and not what God says. Some churches try to capitalize on “group dynamics"
+"” by using the music, fads, and currents of the world as a means of attracting "
+"youth. They forget that faith involves a break with this fallen world, not a me"
+"rger with it. Faith comes by the power of God, not by merging with the spirit o"
+"f the age."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "(From a Word in Season, Vol. 7)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Church, The, \n"
+"																	"
+"Theology"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

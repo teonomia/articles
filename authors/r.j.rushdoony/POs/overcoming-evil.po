@@ -1,0 +1,106 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Overcoming EvilBy R. J. RushdoonyJune 06, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "CA Farmer 231:5 (Sept. 6, 1969), p. 30."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The Latin writer Gaius Petronius, of the first century A.D., had some telling c"
+"riticisms to make of the Roman society of his day. He spoke of the “reason why "
+"such blank idiots graduate from our colleges” quite eloquently. The educational"
+" philosophy was all wrong as well as the methods: “You can no more absorb these"
+" methods and remain mentally balanced than you can be a scullion and not get yo"
+"urself smutted with smells.” He added, “What’s the remedy then? Parents need a "
+"good talking to. They get restive at the simplest correction of their children."
+" They make everything, every dearest hope, subordinate to a Career … Nowadays b"
+"oys play about at school.”"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Looking at the political scene, Petronius said, “When money is King, what use h"
+"aving Laws? Justice is auctioned.”"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "On religion, he wrote, “The gods are only swear words now … All people do is sh"
+"ut eyes and reckon up incomes.” The purpose of men is “to feed the senses.”"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "He added, “I hold there’s nothing wrong with the country. It’d be a fine place "
+"if it wasn’t for the people in it.”"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "But Petronius himself was as bad as anything he criticized and satirized. He hi"
+"mself was a degenerate and a man without real convictions. It is easy enough fo"
+"r any man to see the evils of the day. It is another thing entirely to have the"
+" faith and character to create a new society."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Thus, if you want a blunt and telling indictment of Roman life, go to the Roman"
+" writers. But if you want that which alone made possible new life amid the dege"
+"neracy of Rome, go to the Bible."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The world is full of men like Petronius today. In every area of life, they can "
+"describe very ably the evils of our time, but, like Petronius, they are at best"
+" impotent when it comes to doing anything, or more often, are themselves a part"
+" of our humanistic degeneracy."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Our need is for the grace and saving power of God and the authority of His law-"
+"word. Men are not saved by knowing how evil the times are but by the sovereign "
+"and saving power of God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "We need to say, therefore, good-bye, Petronius. You and your world are dead, an"
+"d your sons today are equally dead and therefore unable to change our evil time"
+"s. Then, welcome, Christ, who hast said, “Behold, I stand at the door, and knoc"
+"k: if any man hear my voice, and open the door, I will come in to him, and will"
+" sup with him, and he with me” (Rev. 3:20). “And he that overcometh, and keepet"
+"h my works unto the end, to him will I give power over the nations” (Rev. 2:26)"
+". Evil is overcome, not simply by knowledge, but by godliness."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: World History"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

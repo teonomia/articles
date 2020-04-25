@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Against Spiritual PeopleBy R. J. RushdoonyOctober 16, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 237:6 (Oct. 21, 1972), p. 8."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "One of the great heresies of our time is the emphasis on “being spiritual,” as "
+"though this means being Christian. Scripture calls us to be filled with the Hol"
+"y Ghost, which is something very different. It was a belief of Greek philosophy"
+" and religion that man should be spiritual rather than materialistic, and one o"
+"f the objections of Greek philosophers to Biblical faith was that it was too ma"
+"terialistic."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "There is no merit as such in being spiritual. The devil, after all, is entirely"
+" spiritual, but this does not make him godly. Over and over again, the command "
+"given in Scripture is “Sanctify yourselves therefore, and be ye holy: for I am "
+"the LORD your God” (Lev. 20:7). To be holy, or to be sanctified, and to be spir"
+"itual are not necessarily the same. The Scriptures make clear that holiness mea"
+"ns obedience from the heart to the law-word of God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "When St. Paul, in 1 Thessalonians 4:3–12, declares, “For this is the will of Go"
+"d, even your sanctification,” he then goes on to tell us some of the things whi"
+"ch make for sanctification. We should abstain from fornication and be faithful "
+"to our marriage vows. We should be honest and avoid all fraudulent business dea"
+"lings with our fellow believers and all men. We should not despise other people"
+" but be marked rather by brotherly love. Moreover, Paul said, ye should “study "
+"to be quiet, and to do your own business, and to work with your own hands, as w"
+"e commanded you.”"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Our attitude towards “them that are without,” that is, who are not in the churc"
+"h, should be one of strict honesty and integrity. In brief, St. Paul held, holi"
+"ness means being a practical, self-supporting, law-abiding, and godly man. We a"
+"re sanctified, not by emotionalism or by a façade of spirituality, but by being"
+" God-fearing, God-obeying, God-worshipping people."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Whenever men have placed a false emphasis on spirituality, the result has been "
+"a rise of occultism, Satanism, and mental disorders. Remember, Satan as a purel"
+"y spiritual being is very happy to have people emphasize the spiritual rather t"
+"han the holy, because he is then able to take advantage of them."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The glory of our faith is that it is so practical. It is concerned with the who"
+"le man, body and soul, and the way of sanctification is mindful of the whole ma"
+"n. Man’s whole being was involved in the Fall, not merely his body, and man’s w"
+"hole being is redeemed by Christ, not merely his spirit. It is the whole man wh"
+"o is destined for the general resurrection and the new creation, and it is ther"
+"efore to the whole man that all of Scripture speaks. The devil is more spiritua"
+"l than any of us, but he is not holy. Our calling is to “holiness, without whic"
+"h no man shall see the Lord” (Heb. 12:14)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Culture , \n"
+"																	Dom"
+"inion, \n"
+"																	Reformed Thought"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

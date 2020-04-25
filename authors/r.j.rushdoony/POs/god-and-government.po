@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "God and GovernmentBy R. J. RushdoonyJune 24, 2013"
+msgstr ""
+
+##HTML: <h3 >{{#c}}</h3>
+msgid "\n"
+"	Deuteronomy 1:-18"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	5. On this side Jordan, in the land of Moab, began Moses to declare this "
+"law, saying,"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	6. The LORD our God spake unto us in Horeb, saying, Ye have dwelt long en"
+"ough in this mount:"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	7. Turn you, and take your journey, and go to the mount of the Amorites, "
+"and unto all the places nigh thereunto, in the plain, in the hills, and in the "
+"vale, and in the south, and by the sea side, to the land of the Canaanites, and"
+" unto Lebanon, unto the great river, the river Euphrates."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	8. Behold, I have set the land before you: go in and possess the land whi"
+"ch the LORD sware unto your fathers, Abraham, Isaac, and Jacob, to give unto th"
+"em and to their seed after them."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	9. And I spake unto you at that time, saying, I am not able to bear you m"
+"yself alone:"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	10. The LORD your God hath multiplied you, and, behold, ye are this day a"
+"s the stars of heaven for multitude."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	11. (The LORD God of your fathers make you a thousand times so many more "
+"as ye are, and bless you, as he hath promised you!)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	12. How can I myself alone bear your cumbrance, and your burden, and your"
+" strife?"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	13. Take you wise men, and understanding, and known among your tribes, an"
+"d I will make them rulers over you."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	14. And ye answered me, and said, The thing which thou hast spoken is goo"
+"d for us to do."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	15. So I took the chief of your tribes, wise men, and known, and made the"
+"m heads over you, captains over thousands, and captains over hundreds, and capt"
+"ains over fifties, and captains over tens, and officers among your tribes."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	16. And I charged your judges at that time, saying, Hear the causes betwe"
+"en your brethren, and judge righteously between every man and his brother, and "
+"the stranger that is with him."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	17. Ye shall not respect persons in judgment; but ye shall hear the small"
+" as well as the great; ye shall not be afraid of the face of man; for the judgm"
+"ent is God's: and the cause that is too hard for you, bring it unto me, and I w"
+"ill hear it."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	18. And I commanded you at that time all the things which ye should do. ("
+"Deuteronomy 1:5-18)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	According to Richard Clifford, "In no book of the Bible is exclusive fide"
+"lity to the Lord held up so insistently to Israel as it is in Deuteronomy."[1] "
+"This may be an overstatement, since all the Bible stresses faithfulness, but, b"
+"ecause these are Moses's farewell words to Israel, they do have a strong and in"
+"sistent character."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Our text is in two parts. In vv. 1-8, we have a summons to possess the la"
+"nd. This is a commandment from God, and it carries with it promises for faithfu"
+"lness. Then, in vv. 9-18, Moses prepares the people for his death and he requir"
+"es that they follow God's ordained pattern of government."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Deuteronomy was the most influential book in Old Testament history becaus"
+"e of the use of it by the prophets. Its stress on possession of the land had a "
+"powerful effect, and it is an emphasis needed now, because we have separated fa"
+"ith and the land, faith and possession of the earth. God having done certain th"
+"ings for His people requires therefore certain things of them. True faith must "
+"have works: faith means vision and action. A static faith is dead. God told His"
+" people at Sinai, "Ye have dwelt long enough in this mount" (v. 6). God's alter"
+"natives are moving forward or death."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	In v. 11, Moses, with intensity, wishes that, with God's blessing and the"
+" people's faithfulness, they might grow a thousandfold."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Where God commands us, He empowers us to do His will. As Davies observed,"
+" "Human power is formal - God's power real."[2] Throughout Deuteronomy, Moses i"
+"nsistently relates God to the people: "the LORD our God" (v. 6), "the LORD your"
+" God" (v. 10), and so on. Failure to act in terms of God's promises had thirty-"
+"eight years earlier led to defeat. As the marginal comment in the Geneva Bible "
+"reads, "the fault was in themselves, that they did not sooner possess the inher"
+"itance promised."[3] The old term applied in Judaism to Deuteronomy was correct"
+": it is "a book of reproofs.""
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	In. vv. 9-16, the required form of government in church and state is set "
+"forth. What God requires is the reverse of the normal or usual form, which is f"
+"rom the top down. Rule by an elite at the top is an ancient pattern as well as "
+"a modern one. In Plato's Republic, it is held to be the only valid form, i.e., "
+"rule by philosopher-kings. These men are an unelected elite; they are under no "
+"law: their will determines all things. This is, of course, the pattern of Marxi"
+"sm and Fascism, and also of the so-called European Community, which is governed"
+" by unelected rulers and whose law is their will."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	God's requirement is government from the bottom up in terms of His law. I"
+"t begins with the self-government of the Christian man, with the family as a go"
+"vernment, the church, the school, a person's vocation, society and its various "
+"voluntary groups and agencies, and, finally, civil government, one government a"
+"mong many."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	God's way places responsibility on every man, whereas all humanistic patt"
+"erns remove government from God and man to the state, or to the autonomous indi"
+"vidual. God's law in every sphere limits the powers of man, church, state, fami"
+"ly, and all human agencies. Its basic thrust is man's responsibility: "Thou art"
+" the man" (2 Sam. 12:7). Statism assumes a caretaker role which denies implicit"
+"ly that man is created in God's image and has a calling to govern himself and h"
+"is spheres of responsibility."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Where the law of God is set aside, man's law, which is anti-law from befo"
+"re Plato's day to ours, replaces it. The Christian is a man empowered by God's "
+"grace and by His Spirit because he has a clean conscience before God (Heb. 10:2"
+"2). Where God's law and grace are rejected, the systems of government devised b"
+"y man rest on sin, guilt, and injustice. The power of guilt to cripple and limi"
+"t man is very great. We see it widely used today to make men feel guilty becaus"
+"e they are successful, or white, or almost anything. We are held to be polluter"
+"s of the air and earth and an accursed race of exploiters. The effects of this "
+"on millions is very severe. People are afraid to state obvious facts lest they "
+"be accused of racism, cultural imperialism, ideological oppression, and so on a"
+"nd on. Guilt is a very powerful means of controlling and castrating peoples."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	This guilt is created by manufacturing sins which have no place in God's "
+"sight but are very important in man's plans to govern over men and nations, and"
+" the earth as well. If we are held to be guilty because of our race and nationa"
+"l past, there is no way of removing that ostensible sin and its guilt."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	One of the most evil ideas about sin is a product of the Darwinian and Fr"
+"eudian worldviews. Sin and guilt are then metaphysical conditions, aspects of b"
+"eing human, and they are ineradicable. Man is thus perpetually guilty."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	In Scripture, sin and guilt are moral facts and conditions. Christ came t"
+"o remove them from His people and to start them on the way of sanctification: o"
+"bedience to God's law-word. In this freedom from sin and guilt, the Christian i"
+"s God's free man, the only truly free man."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Where, however, sin and guilt are metaphysical facts, there is no escapin"
+"g them, and the best possible role for the state is not a remedial but a custod"
+"ial one. The caretaker state becomes a keeper of the human zoo. Injustice becom"
+"es a natural and inescapable fact of the human scene, and man has no escape fro"
+"m tyranny and injustice. Humanistic "liberation" is from freedom to a custodial"
+" slavery."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Men will either live in terms of God's grace and law, or they will live u"
+"nder sin, guilt, and injustice. Sin, guilt, and injustice are used to control m"
+"an, and the term given to this is the System. The System is a linkage of state,"
+" capital, labor, the criminal groups, and churches, all allied in the control o"
+"f men. It was described in detail by Franklin Hichborn in "The System" as Uncov"
+"ered by the San Francisco Graft Prosecution (1915); the sociologist Edwin H. Su"
+"therland documented a specific case in detail in The Professional Thief (1937);"
+" Sam and Chuck Giancana, in Double Cross (1992), saw the System as controlling "
+"the presidency, interlocked with city, state, and federal agencies, and so on a"
+"nd on. Many other works can be cited."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	What is clear is that in a world which denies God's covenantal grace and "
+"law, of necessity, sin, guilt, and injustice, as endemic to the human scene, wi"
+"ll be used by men to control peoples and institutions."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	No plan of government for fallen man can evade the forces of sin, guilt, "
+"and injustice. Those who know God's grace and law are required to live by His r"
+"equirements, and, for government, this means a highly decentralized structure."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	In earlier times, both in England and in the American colonies, the hundr"
+"ed-courts were basic in government, and they were patterned after the requireme"
+"nts of Deuteronomy 1:9-18."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Calvin, in commenting on Numbers 15:39, where God condemns men and nation"
+"s for going "a-whoring," i.e., seeking their own will and way, wrote:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "\n"
+"	\n"
+"		And, first of all, by contrasting "the hearts and eyes" of men wit"
+"h His Law, He shews that He would have His people contented with that one rule "
+"which He prescribes, without the admixture of any of their own imaginations; an"
+"d again, He denounces the vanity of whatever men invent for themselves, and how"
+"ever pleasing any human scheme may appear to them, He still repudiates and cond"
+"emns it. And this is still more clearly expressed in the last word, when he say"
+"s that men "go a whoring" whenever they are governed by their own counsels. Thi"
+"s declaration is deserving of our especial observation, for whilst they have mu"
+"ch self-satisfaction who worship God according to their own will, and whilst th"
+"ey account their zeal to be very good and very right, they do nothing else but "
+"pollute themselves to spiritual adultery. For what by the world is considered t"
+"o be the holiest devotion, God with his own mouth pronounces to be fornication."
+"[4]"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	(Taken from Rushdoony's Deuteronomy, p. 7)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "[1] Richard Clifford, S. J., Deuteronomy, with an Excursus on Covenant and Law "
+"(Wilmington, DE: Michael Glazier Inc., [1982] 1989), 1."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "[2] D. Davies, in H. D. M. Spence and Joseph S. Exell, eds., Deuteronomy (New Y"
+"ork, NY: Funk &amp; Wagnalls, n.d.), 11."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "[3]Geneva Bible, 1599 ed., note on 1:20."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "[4] John Calvin, Commentaries on the Four Last Books of Moses arranged in the F"
+"orm of a Harmony, vol. 1 (Grand Rapids, MI: Eerdmans, 1950, reprint), 365."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Philosophy, \n"
+"																	S"
+"cience, \n"
+"																	Government, \n"
+"																	Pentateuch, \n""
+"
+"																	Psychology, \n"
+"																	Epistles, The, \n"
+"						"
+"											Old Testament History"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

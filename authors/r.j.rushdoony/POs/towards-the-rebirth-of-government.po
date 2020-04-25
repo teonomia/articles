@@ -1,0 +1,465 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Towards the Rebirth of GovernmentBy R. J. RushdoonyNovember 17, 2012"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In, the modern world, the state has made itself man's provider; its goal is to "
+"provide cradle to grave security, as well as "social justice." We need to remem"
+"ber that other agencies have at times assumed this role. In old China, the effe"
+"ctive government was not the emperor but the family system. It provided the bas"
+"ic religion, ancestor worship; the family courts administered what was religiou"
+"sly believed to be justice, and the family also provided social security. All t"
+"his was accompanied by religious ideas and practices alien to Biblical faith, b"
+"ut old China was ruled by the family system more effectively than by civil auth"
+"orities. More often than not, the civil rulers impeded rather than furthered ef"
+"fective government."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The medieval monastery was commonly a better functioning "state" than was the r"
+"egional king. Decarreaux noted of the monastery that "the ecclesiastical proper"
+"ty had already acquired the general outlines of a little sovereign State."1 The"
+" monastery, usually begun on donated land, was a landed estate. The lands were "
+"often marginal and undeveloped; through good administration, they became richer"
+" than surrounding properties. The monastery would commonly have one or two hund"
+"red monks. It also acquired serfs, who "were part of the monastic ‘family' and "
+"often better off there than in lay service."2 Independent small landowners woul"
+"d frequently seek monastic protection and oversight, as would villages. The mon"
+"astery lent money to these peoples at a lesser rate of interest than profession"
+"al moneylenders. Surplus production was sold by the monastery at lower prices t"
+"han those charged by others. All charity was in the hands of the church, and th"
+"e monasteries took over a large part of it. Travellers and pilgrims were housed"
+"; infirmaries cared for the sick, and learning in varying degrees was preserved"
+" and fostered. At the same time, the monastery faced confiscation by kings, or "
+"abbots imposed upon it by a lord or king."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "It should not surprise us that William Cobbett, writing on Henry VIII's seizure"
+" of the monasteries, should view this as a great disaster for the common people"
+" of England. So savage was the destruction, that Henry's wreckers did not spare"
+" Hyde Abbey, founded by King Alfred. Not even Alfred's tomb there was spared.3 "
+"The state was determined to be man's essential government."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The conflict between church and state has been a continuing one since the days "
+"of Rome. The battle has seen various rises and falls of Christian freedom, but,"
+" with it all, an advance in the awareness of the implications of the struggle."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "On the institutional side, there have been losses. Both within the church and t"
+"he state, there has been a steady growth in the power of bureaucracies. When th"
+"e Avignon "captivity" of the papacy took place, the popes were less vocal in ve"
+"toing the policies of kings. They turned inward to control the clergy, develop "
+"a bureaucracy, and centralize power in the papacy. There was much good in this,"
+" in that universities and learning were promoted, some Orders reformed, uniform"
+" practices furthered, and canon law strengthened.4 However, how deeply the bure"
+"aucratic mentality took hold appeared when the papacy returned to Rome. The irr"
+"esponsible Urban VI was so deadly for the church, and his election so questiona"
+"ble, that some cardinals met to plan some kind of restraint on the pope. They w"
+"ere concerned with a legitimacy of argument, and they wrote down their scholarl"
+"y opinions and findings and thereby ensured their arrest, torture, and murder.5"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "It is worthy of note that a very great improvement of the church's administrati"
+"on and bureaucracy also occurred under the Borgia pope, Alexander VI, in the la"
+"tter half of the 15th century. Moral reform was lacking under Alexander, but th"
+"ere was a major advance in administrative controls.6"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "By the time of the Reformation, the church was very much on the retreat in the "
+"struggles with the states. Government was shifting from the family and the chur"
+"ch to the state. The Protestant princes often rebelled against Rome in part to "
+"have the freedom which the major Catholic states, as against the lesser ones, h"
+"ad gained."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Ozment has said, of the Middle Ages, that they were not an era of church domina"
+"tion. The church was on the defensive; it was an embattled institution which "w"
+"on battles, but lost wars."7 The Reformation represented a theological advance,"
+" even as the Counter-Reformation meant the revivification of a faltering and fa"
+"iling church. The Reformation era did give, even in the midst of increasing sta"
+"tism, some great opportunities for action against the previously growing depart"
+"ure from old Christian norms. Both "tithes and alms have fallen away," Luther w"
+"rote Elector John Frederick on October 31, 1525.8 The clergy in both Protestant"
+" and Catholic circles became in many cases very poor. For some time, the Calvin"
+"ists were almost alone in a sustained challenge to the state."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In England, the Puritans revived the older position of confrontation. The Purit"
+"ans represented, not an order sponsored by a prince but one created in terms of"
+" the daring faith of many. They also stressed and produced moral reform. Richar"
+"d Baxter wrote that, during his 56 years of close contact with non-conforming c"
+"ongregations, he knew of only one instance of fornication. The offender had bee"
+"n disciplined, and, when Baxter wrote some years later, had not been restored t"
+"o fellowship.9"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In America, Puritanism lacked a like moral clarity. The reason for this was tha"
+"t the colonies essentially followed the English pattern of mandatory church att"
+"endance plus the equation of citizenship and church membership. To be an Englis"
+"hman meant being a subject of the crown and a member of the Church of England b"
+"y birth, not by profession. This meant that many immigrants who had come for we"
+"alth or as a prison sentence were in the church, while not truly of it. The con"
+"trol of their behavior, and their conversion, was a continuing church problem."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "With the U.S. Constitution and the First Amendment, there was an edge of freedo"
+"m which stimulated evangelism as well as congregational financial responsibilit"
+"y. Behind the settlement involved in the First Amendment, the Bill of Rights, a"
+"nd the Constitution were certain presuppositions. The state, the church, and th"
+"e individual conscience had each in its place a measure of authority. All had, "
+"however, a common superior, the triune God. These human authorities, "
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "whatever their claims, had no right to set the limits to their power, because t"
+"his is God's prerogative.10"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Since the writing of the First Amendment, the state, the church, and the indivi"
+"dual have in varying degrees denied their common superior, the triune God. The "
+"results have been a greatly weakened church, a state playing god, and individua"
+"ls whose actions neither recognize nor tolerate any superior power, let alone G"
+"od. If the church does not see its authority as a transcendental one, from God "
+"and not from man, and in a manner set forth in Jesus Christ, then the church is"
+" readily absorbed into the state's power. It then falls into the humanistic ecu"
+"menicism displayed by Sergio Mendez Arceo, Bishop of Cuernavaca, Mexico, at the"
+" Vatican II Council. The church should be, he held, an open community inclusive"
+" of Jews and Freemasons.11 Since then, Bishop Arceo has become more inclusive!"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Amid all this decay, certain counter-trends are increasingly in evidence. Only "
+"a few will be cited here. First, there is the rise of fundamentalism with an in"
+"creasingly faithful and clear-cut dedication to the faith. Christian Schools, m"
+"issions to the needy, to delinquent children, to criminals, and to a variety of"
+" other causes signify a return to an ancient Christian catholicity of faith and"
+" life. Arbitration courts and like developments make clear that fundamentalism "
+"is a governing force."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Second the intellectual foundations for the return of Christianity to governmen"
+"t are being laid down. In this area, Chalcedon Foundation has pioneered, rebuil"
+"ding on ancient foundations."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Third, the modern state exercises more and more power and less and less true go"
+"vernment. As the state's power grows, the people's liberties and the securities"
+" of their life and property diminish. The modern state is increasingly a taxing"
+" rather than a governing power. The decay of messianic politics is steadily in "
+"evidence. In May, 1984, a Democrat in Pennsylvania, asked about the presidentia"
+"l primary, expressed some dismay over the available candidates. As against Mond"
+"ale, he said, "I did end up voting for Hart in the primary, just to throw a wre"
+"nch into the system to see if maybe the convention would become somewhat of a s"
+"talemate and they could come up with a ‘savior.' Unfortunately, I think I am lo"
+"oking for the ideal person, and I'm sure he doesn't exist."12 In 1932, American"
+"s elected Franklin Delano Roosevelt as president in a campaign in which Rooseve"
+"lt and the Democrats ran with a plain-spoken slogan: "Throw the spenders out."1"
+"3 They then instituted the most massive spending career in American history to "
+"that date. Subsequent administrations have been as faithful to their promises, "
+"usually."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The state is sick and dying. Government needs to be reborn. This can only happe"
+"n as men govern themselves and their spheres under God, as, step by step, they "
+"take government back from the state and restore to man his responsibility and f"
+"reedom to be, in every sphere of life, a participating and governing power. Ear"
+"lier, we pointed out that in most countries today the problem is no longer one "
+"of church and state in the classical sense, i.e., a single church versus a sing"
+"le state. There are now a multiplicity of churches, and the result has been goo"
+"d for Christianity. It must be added that the need is now for the development ("
+"and, in some areas, redevelopment) of a multiplicity of governmental agencies a"
+"nd institutions. Nothing is more dangerous or more deadly to government than to"
+" restrict it to the state."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The state taxes to govern, and taxation becomes its major instrument of power a"
+"nd control. After a certain point, sound government decreases as taxes increase"
+", because the state's central and unspoken goal becomes the growth of its contr"
+"ols, regulations, jurisdiction, and power. The average man today pays taxes on "
+"a scale unknown in the medieval era, and prior to this century, except, as Know"
+"les noted, by those in the medieval era who were in the hands of usurers.14 The"
+" victims of the usurer had their debts to blame for their predicament, not the "
+"state."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The state has used its powers over the centuries to compel many things outside "
+"the legitimate province of civil government. Our concern is the compulsion to b"
+"e a part or member of a particular church. The same power has often been used a"
+"gainst Christianity or the church, and sometimes against both. Thus, in England"
+", under King William Rufus, converts were forced back into Judaism. This was do"
+"ne at the instigation and the pay of influential Jews, and William Rufus himsel"
+"f threatened to become a Jew.15 Such a use of the state was commonplace over th"
+"e centuries. Thus, as Burckhardt noted, in Persia under Shapur II (310-382), th"
+"e Jews, who were very influential in Persia, took part in a great persecution a"
+"nd killing of Christians."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Both Christians and Jews used the state in different eras to gain their ungodly"
+" ends, and rulers exploited their animosities. This kind of situation, together"
+" with the often enforced very close financial ties of Jews to the monarchs, led"
+" later to massacres of the Jews. As Ames noted,"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "\n"
+"A prudent king would cheerfully watch the Jewish usurers grow rich and the"
+"n levy a tax on them. Under Henry II, for example, the richest man in the kingd"
+"om was a Jew, Aaron of Lincoln, and he kept Henry almost solvent. In 1187, the "
+"Jews were reckoned to have one-fourth of the moveable wealth of the kingdom, an"
+"d theirs were the only stone houses, besides the king's, in the realm. Inevitab"
+"ly, Christian debtors considered the wealth of the creditors to be built on the"
+"ir misery. And however a riot started, it ended in the robbing of the houses of"
+" the money-lenders - and the burning of the records of indebtedness.16"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The same kind of privilege led later to a like unreasoning and destructive host"
+"ility against the church. Neither Jews nor the church had freedom most of the t"
+"ime. The monarchs regarded every concession as a privilege to be exploited, and"
+" the results were disastrous for both Jews and the Christian church."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "As Burckhardt observed, some years ago, "First and foremost . . . what the nati"
+"on desires, implicitly or explicitly, is power."17 The medieval monarchs did no"
+"t bequeath national debts to their posterity in any appreciable degree. This wa"
+"s the work of "the modern centralized State, dominating and determining culture"
+", worshipped as a god and ruling like a sultan."18 In recent years, not only th"
+"e Marxists but other humanists have seen the state as the new source and center"
+" of religion. The English idealist philosophers, for example, held, in Hallowel"
+"l's words, that "The state is not limited by morality, it is morality." Bosanqu"
+"et wrote, for example,"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "\n"
+"The Nation-State as an ethical idea is, then, a faith or a purpose - we mi"
+"ght say a mission, were not the word too narrow and too aggressive . . . The mo"
+"dern nation is a history and a religion rather than a clear-cut idea.19"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Another modern scholar has said, "It is a distinguishing mark of a State that t"
+"here is no authority external and superior to itself."20"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Unless the state is under the triune God, there is no hope for freedom for eith"
+"er the church or men. If the state is its own god and its own source of moralit"
+"y, then the state can do no wrong, and no man has then the right or freedom to "
+"differ from or to challenge the state."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Again, if the state is equated with government, there is then no freedom for ma"
+"n, because freedom is inseparable from self-government under God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Thus, the Christian community must assert the priority of God's law-word as bin"
+"ding on all of life, including church, state, and school. Christians must once "
+"again take over government in education, welfare, health, and other spheres. Ba"
+"sic to this take-over is tithing.21"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "At times in the past, the conflict between church and state has been an institu"
+"tional conflict, sometimes for power, and often for very principled reasons of "
+"jurisdiction. It is more than a jurisdictional dispute now: it is religious con"
+"flict, and a war unto death. The modern humanistic state is history's most jeal"
+"ous god, and it will tolerate no rivals. Hence, its war against Christianity. I"
+"n this struggle, however, the state has taken on a power far greater than itsel"
+"f. As the humanistic world powers take "counsel together against the LORD, and "
+"against His anointed," planning to overthrow His law and government, "He that s"
+"itteth in the heavens shall laugh: the LORD shall have them in derision" (Ps. 2"
+":4). He shall break His enemies with a rod of iron."
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "\n"
+"10. Be wise now therefore, O ye kings: be instructed, ye judges of the ear"
+"th. 11. Serve the LORD with fear, and rejoice with trembling. 12. Kiss the Son,"
+" lest he be angry, and ye perish from the way, when his wrath is kindled but a "
+"little. Blessed are all they that put their trust in him. (Ps. 2:10-12)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "1. Jean Decarreaux: Monks and Civilization, p. 362. London, England: George All"
+"en and Unwin, 1967."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "2. Ibid., p. 362."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "3. William Cobbett: A History of the Protestant Reformation in England and Irel"
+"and, p. 142. Written in 1824-1827. F. A Gasquet edition. New York, NY: Benziger"
+" Brothers."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "4. Alec Glasfurd: The Antipope, Peter de Lunce, 1342-1423, pp. 19, 26ff. London"
+", England: Barrie and Rockliff, 1965."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "5. Ibid., pp. 105ff."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "6. Clemente Fusero: The Borgias, pp. 156ff. New York, NY: Praeger, 1972."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "7. Steven Ozment: The Age of Reform, 1250-1550, p. 180. New Haven, CT: Yale Uni"
+"versity Press, 1980."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "8. Ibid., p. 393."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "9. Gerald R. Scragg: Puritanism in the Period of the Great Persecution, 1660-16"
+"88, p. 176f. New York, NY: Russell & Russell & Russell, (1957) 1971."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "10. Robert E. Rodes, Jr.: "Sub Deo et Lege: A Study of Free Exercise," in Donal"
+"d A. Giannela, editor: Religion and the Public Order, Number Four, p. 29. Ithac"
+"a, NY: Cornell University Press, 1968."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "11. Hans Kung, Yves Congar, Daniel O'Hanlon, editors: Council Speeches of Vatic"
+"an II, pp. 179-184. Glen Rock, NJ: Dens Book, Paulist Press, 1964."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "12. U.S. News and World Report, May 14, 1984, vol. 96, no. 19, p. 30, "What Vot"
+"ers are Thinking on Race for President.""
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "13. Thomas A. Bailey: Presidential Saints and Sinners, p. 207. New York, NY: Th"
+"e Free Press, Macmillan, 1981."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "14. David Knowles: Thomas Becket, p. 47. Stanford, CA: Stanford University Pres"
+"s, 1971."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "15. Ruth M. Ames: The Fulfillment of the Scriptures: Abraham, Moses, and Piers,"
+" p. 31. Evanston, IL: Northwestern University Press, 1970."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "16. Ibid., p. 33f."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "17. Jacob Burckhardt: Force and Freedom, p. 183. New York, NY: Random House, Pa"
+"ntheon Books, (1943) 1964."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "18. Ibid., p. 224."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "19. Cited from Bosanquet's Philosophical Theory of the State (1899) by John H. "
+"Hallowell: Main Currents in Modern Political Thought, p. 288. New York, NY: Hen"
+"ry Holt, (1950) 1959."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "20. Henry A. Mess: Social Groups in England, p. 118. London, England: Thomas Ne"
+"lson and Sons, 1940."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "21. See E. A. Powell and R.J. Rushdoony: Tithing and Dominion, Vallecito, CA: R"
+"oss House Books, 1979."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Church, The, \n"
+"																	Puritanism, \n"
+"																	Ch"
+"ristian Reconstruction, \n"
+"																	American History, \n"
+"										"
+"							World History, \n"
+"																	Biblical Law, \n"
+"																"
+"	Charity, \n"
+"																	Reformed Thought, \n"
+"																	Statism"
+", \n"
+"																	Economics, \n"
+"																	Family &amp; Marriage,"
+" \n"
+"																	Justice, \n"
+"																	Culture , \n"
+"										"
+"							Government, \n"
+"																	Poetry &amp; Wisdom Literature, \n"
+"	"
+"																Constitution, The, \n"
+"																	Church History, \n"
+"	"
+"																Socialism, \n"
+"																	Business"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

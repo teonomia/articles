@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Biblical “Guidance”By R. J. RushdoonyDecember 11, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 243:2 (Aug. 9, 1975), p. 33."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "I recently sat in on a meeting where the majority coolly and deliberately viola"
+"ted a verbal contract and stole assets amounting to half a million dollars. The"
+"y all professed to be Christians! Two of us protested earnestly, but in vain."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Each time the moral issue was raised, someone claimed they were seeking “divine"
+" guidance” as they proceeded on their sinful course."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "That phrase alone is a red flag to me, and can too often be a warning of hypocr"
+"isy and deceit. The Lord gives us divine guidance in His Word. His moral law is"
+" clearly and plainly stated. To bypass God’s plain commandments in the name of "
+"some higher guidance means to commune with one’s own self to justify a course o"
+"f action obviously condemned by Scripture. Those who really want God’s guidance"
+" get it from His Word, in black and white, clearly written for all to read."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Those who want to bypass the Word of God too often claim a “divine” guidance kn"
+"own only to them. A fine Christian layman told me yesterday that, when he hears"
+" such talk about “divine” guidance apart from Scripture, he expects the next vo"
+"ice to be the devil’s. I can believe that."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "I remember the young mother who tried to justify leaving her husband for a marr"
+"ied man (who abandoned his family) by saying she had sought “divine” guidance b"
+"efore taking the step. I referred her to the Ten Commandments for divine guidan"
+"ce on the subject."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The Bible speaks to our total life. The Lord makes clear throughout Scripture w"
+"hat He requires of us. We are plainly and richly guided. The question is this: "
+"will we obey? Will we be guided?"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Sinning is bad enough, but to bypass the Word of God and to call our often sinf"
+"ul wishes divine guidance can only compound sin. The next time someone claims “"
+"divine guidance,” ask him where in the Bible he got it. If he has no scriptural"
+" authority, his guidance is not of God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Justice"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

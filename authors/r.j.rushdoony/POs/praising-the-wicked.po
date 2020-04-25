@@ -1,0 +1,103 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Praising the WickedBy R. J. RushdoonyMarch 23, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "(Reprinted from Bread upon the Waters: Columns from the California Farmer [Fair"
+"fax, VA: Thoburn Press, 1974], 93–94.)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "CA Farmer 229:7 (Oct. 5, 1968), p. 37."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Praising the wicked, and rewarding them, seems to be the main purpose of our ju"
+"dges and legislators these days."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "If this seems too strong a statement, then take it up with God because Scriptur"
+"e plainly declares, “They that forsake the law praise the wicked: but such as k"
+"eep the law contend with them” (Prov. 28:4). The law in question is God’s law. "
+"If men abandon it, they are deserting not only law but righteousness and justic"
+"e. They will therefore “praise the wicked” instead of contending with them, ins"
+"tead of trying to control and suppress evil."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Recently, I sat in a courtroom during hearings for two criminals, one caught in"
+" the commission of a crime, the other with a car he had stolen before witnesses"
+". They were planning to plead innocent and were going to be provided with publi"
+"c defenders at taxpayers’ expense; those robbed would get no return, in one cas"
+"e for stolen funds and in the other case for a possibly damaged car. There was "
+"no thought in the court or law of the Biblical law of restitution. The penalty "
+"was being paid by the victims in many hours lost in the courtroom, lost goods, "
+"and taxes paid. The criminals, both with records, were dealt with gently, lest "
+"it prejudice the case, and the victims and police were questioned at times shar"
+"ply."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "A fair trail is a necessity under God’s law, but a court that continually penal"
+"izes the victims is in effect praising the wicked."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "We need to ask the question, therefore, as to why men and nations praise the wi"
+"cked. Birds of a feather flock together, and evil men will show their preferenc"
+"e for evil, and guilty men will work to make justice ineffective lest it judge "
+"them also."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "“Where there is no vision, the people perish: but he that keepeth the law, happ"
+"y is he” (Prov. 29:18). A Biblical scholar, the Reverend Derek Kidner, has poin"
+"ted out that the Hebrew for this verse can be translated literally as, where th"
+"ere is no prophecy or vision, that is, no preaching of the Word, “the people ru"
+"n wild.” Because there has been very little true preaching of the Word of God, "
+"the people run wild. And a wild people will praise the wicked."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Justice, \n"
+"																	Phil"
+"osophy, \n"
+"																	Culture , \n"
+"																	Poetry &amp; Wisd"
+"om Literature, \n"
+"																	Church, The"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

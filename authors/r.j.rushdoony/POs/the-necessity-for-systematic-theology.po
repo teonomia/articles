@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "The Necessity for Systematic TheologyBy R. J. RushdoonyMarch 27, 2014"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Last Saturday, while travelling to Los Angeles, I listened on my car radi"
+"o to an evangelist broadcasting from the other end of the country. While claimi"
+"ng to preach the word of God as a Bible-believing Christian, he preached a fait"
+"h I could not recognize as Scriptural, nor the God I hear speak in the Bible. T"
+"his man assured his converted and unconverted listeners that "God is always on "
+"your side." He also spoke of God as our "Daddy" in heaven, rich in resources an"
+"d eager and anxious to help us if we only would allow Him to do so. I could not"
+" recognize in what he preached the sovereign God of Scripture nor anything that"
+" resembled His commanding word, the Bible. The evangelist was a humanist who wa"
+"s using, or trying to use, God as the greatest possible resource available to m"
+"an; central to his thinking was man and man's needs. He lacked any systematic t"
+"heology of God; instead, there were traces in his brief message of a theology o"
+"f man as the true center and the god of things."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Very briefly, systematic theology says that God is God. It declares that,"
+" because God is sovereign, omnipotent, all-wise, all-holy, and knows from etern"
+"ity all that He ordains and decrees, therefore there is no hidden possibility o"
+"r potentiality in God, but that God is both fully self-conscious and totally se"
+"lf-consistent. Only with such a God is systematic theology possible. Wherever f"
+"aith in the sovereignty of God declines, there too systematic theology goes int"
+"o an eclipse."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	The word systematic in systematic theology means, among other things, fir"
+"st, that it is a comprehensive, unified statement of what Scripture as a whole "
+"teaches about God. The revelation of God in Scripture is brought together in su"
+"mmary and comprehensive form, and the results of Biblical theology, the exegesi"
+"s and analysis of Scripture and its meaning, are organized and set forth."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Second, the word systematic means that the totally sovereign God, who doe"
+"s not change (Mal. 3:6), is truly knowable. He is always the same. Men change c"
+"haracter, grow and regress, but God is always the same, totally self-consistent"
+" and absolutely sovereign. Only about such a God is a systematic word possible."
+" This is why modern theology cannot produce systematics. Karl Barth's position "
+"was a denial of the possibility of systematics. Thus, he wrote,"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	But it is not "the Almighty" who is God; we cannot understand from the st"
+"andpoint of a supreme concept of power, who God is. And the man who calls "the "
+"Almighty" God misses God in the most terrible way. For the "Almighty" is bad, a"
+"s "power in itself" is bad. The "Almighty" means Chaos, Evil, the Devil. We cou"
+"ld not better describe and define the Devil than by trying to think this idea o"
+"f a self-based, free, sovereign ability....God and "power in itself" are mutual"
+"ly exclusive. God is the essence of the possible; but "power in itself" is the "
+"essence of the impossible.1"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Barth's God is not the God of Scripture who declares, "I am the Almighty "
+"God" (Gen. 17:1). Barth's God is a limiting concept, the product of a man's ima"
+"gination. Barth gives us only a systematic exposition of his unbelief; he canno"
+"t give us a systematic theology of the God of Scripture."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Similarly, Haroutunian held that systematic theology was impossible, beca"
+"use such a doctrine of God cannot do "justice to the complexities of human life"
+"."2 The center of Haroutunian's theology is human life: the God of Scripture ca"
+"nnot in any degree nor in any sense impinge on the sovereignty of autonomous ma"
+"n. Hence, for him systematic theology is an illusion,3 because the God of syste"
+"matic theology is by definition excluded from all consideration."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Third, systematic means that the presupposition of theology is not the mind of "
+"autonomous man but the sovereign God of Scripture. Systematics, no more than ap"
+"ologetics, seeks to prove God and His existence; rather, it presupposes the tri"
+"une God as the only ground and means of reasoning and proof. As Van Til has so "
+"excellently demonstrated, "All the disciplines must presuppose God, but at the "
+"same time presupposition is the best proof."4 On any other presupposition, if l"
+"ogically applied, no proof is at all possible, because all reality is reduced t"
+"o brute factuality, as Van Til has shown.5 Instead of brute and meaningless fac"
+"tuality, all the universe gives us God-created factuality only, and hence the n"
+"ecessary presupposition of all thinking is the triune God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Fourth, as Van Til has always stressed, systematics denies the concept of neutr"
+"ality. There are no neutral facts, no neutral thoughts, no neutral man nor reas"
+"on. All men, facts, and thinking either begin with the sovereign and triune God"
+", or they begin with rebellion against Him. Systematics affirms that God; the d"
+"enial of systematics is a denial of God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Fifth, systematics is necessary if men are to think intelligently and logically"
+". Without the concept of systematics and the God it sets forth, we cannot hold "
+"to a rational and understandable universe nor to any meaningful order therein. "
+"Unregenerate man's reason and logic operate against the background of chaos and"
+" a meaningless void, so that reason and logic are in essence more than irration"
+"al: they are absurd. Systematics not only makes reason reasonable, but it decla"
+"res that there is a necessary and meaningful connection between all facts, beca"
+"use all facts are the creation of the sovereign and omnipotent God and are thus"
+" revelations of His purpose and order. The idea of preaching the whole counsel "
+"of God is only a possibility if systematics is a reality. Otherwise, there is n"
+"o necessary and real connection and unity in the word of God, and we have inste"
+"ad a developing, changing word and plan under different dispensations. We have "
+"then a fragmented word, not a whole counsel which is a necessary and authoritat"
+"ive unity."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Thus, without systematics there is no word of God, and, indeed, no such G"
+"od as His revelation in Scripture sets forth. We have then another god with an "
+"occasional word which is made up of flashes of insight, and of superior powers "
+"to man, but no absolute, almighty, and sovereign God whose every word is infall"
+"ible, and whose revelation manifests the only possible system of truth. This li"
+"ving God declares, "I am God, and there is none else" (Isa. 46:9). There is no "
+"other God, no other truth, no other possibility, system, or meaning outside of "
+"Him. He is God the Lord."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	(Taken from Systematic Theology in Two Volumes, pgs. 59-61)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	1. Karl Barth: Dogmatics in Outline. (New York, N.Y.: Philosophical Libra"
+"ry, 1949). p. 48."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	2. Joseph Haroutunian: First Essay in Reflective Theology. (Chicago, IL: "
+"McCormick Theo­logical Seminary, 1943). p. 10."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "3. Idem."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	4. Cornelius Van Til: An Introduction to Theology, vol. I. (Philadelphia,"
+" PA: Westminster Theological Seminary, 1947). p. 3."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	5. See R. J. Rushdoony: By What Standard? An Introduction to the Philosop"
+"hy of Cornelius Van Til. Fairfax, VA: Thoburn Press, (1958) 1974); and R. J. Ru"
+"shdoony: The Word of Flux. (Fairfax, VA: Thoburn Press, 1975)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Reformed Thought, \n"
+"																	Theology, \n"
+"																"
+"	R. J. Rushdoony, \n"
+"																	Culture "
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

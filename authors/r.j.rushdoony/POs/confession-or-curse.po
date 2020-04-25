@@ -1,0 +1,233 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Confession or CurseBy R. J. RushdoonyNovember 11, 2011"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Reprinted from Cure of Souls: Recovering the Biblical Doctrine of Confession"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "A prevalent heresy of the modern age is the belief that, outside of the walls o"
+"f the church, our lives shift into neutral. Worship and the church are reduced "
+"to one realm among many, and each area of life is a separate universe. The logi"
+"cal conclusion to all that was made by President Clark Keer of the University o"
+"f California in calling for the recognition of multiverses instead of universes"
+", and the multiversity to replace the university."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "This perspective, a return to pagan polytheism, with its many multiverses, deve"
+"loped rapidly after the Darwinian mythology spread throughout the world. It pro"
+"mpted the revival of many false religions and beliefs. A British rock performer"
+", Freddy Mercury, died of AIDS in November 1991. He had previously declared him"
+"self a Zoroastrian. This dualistic faith has long been an undercurrent, taking "
+"many forms, in Europe and elsewhere. Its fundamental belief is that two equal g"
+"ods or life-forces exist, the one calling itself good, and the other bad. Both "
+"are equal powers or forces; both have equal validity. If rape, incest, sodomy, "
+"abortion, euthanasia, murder, and theft are your "thing" or taste, then your li"
+"festyle has equal validity with the Christian way of life. In fact, because the"
+" Christian is "intolerant" of your lifestyle, you are probably morally superior"
+" and are the enlightened one."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Not all men are as open as the homosexual Mercury in their beliefs, nor as self"
+"-conscious. This perspective, however, is very prevalent. In its milder forms, "
+"its thesis is that all consensual acts between adults are morally valid; they a"
+"re simply doing "their own thing." To criticize them is to transgress the "invi"
+"olability" of a freely chosen lifestyle and a religious way of life."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Now, given the prevalence of such thinking and acting, it should not surprise u"
+"s that it has infiltrated the churches, Protestant and Catholic, both clergy an"
+"d laity. Confession then becomes an empty form."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The British edition of Vanity Fair, December 1991, carried a long report on "Un"
+"holy Alliances," by Leslie Bennett. There is an extensive history now of pedoph"
+"ilia in the priesthood. Instead of a housecleaning, there have been payouts to "
+"hush up offenses, and even a promotion into a tenured college professorship for"
+" one priest with a history of offenses. In the United States, two televangelist"
+"s have been exposed for their sexual sins, and many pastors go unexposed. The p"
+"roblem is there. No endless catalog of offenses by laymen and laywomen, by prie"
+"sts and by pastors, will provide an answer to the problem. Many charges are mad"
+"e, too often true, about one group or another. Sexual harassment and molestatio"
+"n of women has obviously increased, and of children also, but sexual molestatio"
+"n of men and children by women has also increased. The problems are all around "
+"us."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Some vague "confessions" are made when public exposure or criticism reaches a h"
+"igh level, as with a U.S. senator recently. What seems clearly to be lacking is"
+" the day by day confession of sins, and such confession means repentance and re"
+"stitution."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In Luke 19:1-10, we read of Zacchaeus (the Greek form of Zaccai, cf. Ezra 2:9) "
+"that, on his conversion, declared:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "\n"
+"8. Behold, Lord, the half of my goods I give to the poor; and if I have ta"
+"ken any thing from any man by false accusation, I restore him fourfold.9. And J"
+"esus said unto him, This day is salvation come to this house, forsomuch as he a"
+"lso is a son of Abraham.10. For the Son of man is come to seek and to save that"
+" which was lost. (Luke 19:8-10)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Our Lord declares Zacchaeus to be a true son of Abraham, an heir of the Kingdom"
+" because of his faith. As Joseph McAuliffe has pointed out, Jesus did not say, "
+""Forget it, Zacchaeus, I know You believe, and that you have a good heart." Rat"
+"her, he commended Zacchaeus, who met the requirements of the law, which are the"
+" requirements of faith. First, Zacchaeus repented; to repent means to reverse t"
+"he direction of one's life, faith, and action. True repentance is not simply a "
+"matter of words. Second, having repented, he confessed his sins. His sins had b"
+"een public, and so too was his confession. Third, he declared that he would mak"
+"e full restitution and more. Zacchaeus had moved from a world of self-determina"
+"tion to a world of total accountability under God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "This is why the alternative to confession is the curse of God. Humanistic man i"
+"s much given to cursing. The words, "God damn you," come readily to his lips, b"
+"ut not their meaning, nor the fact that he may truly be accursed by God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Blessings and curses by God are not merely verbal expressions: they are legal d"
+"ecrees. We can not only be accursed, but we can be made a curse by God (Num. 5:"
+"21). The Lord God pronounces us accursed if we violate His law, refuse to submi"
+"t to Him or believe in Him, or if we become a walking anti-law."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The curse, like the blessing, can also be a prayer in the mouth of man. We must"
+" ask God to bless those who serve Him and His Kingdom, and we must ask His curs"
+"e and judgment on the highhanded and arrogant sinner, on men to whom authority "
+"is given and who violate it, and on the enemies of His Kingdom."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In Ezekiel 39:11-24, God pronounces a fearful curse on covenant-breaking Jerusa"
+"lem and its King. Where their covenant oath has been despised and broken, there"
+" God will despise and break them. This gives us the pattern of God's way with u"
+"s. If we despise His covenant, His Son who established it in His own blood, and"
+" the law of the covenant, He will despise us and break us."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Every covenant involves blessings for obedience and curses for disobedience. We"
+" see God's curses on covenant violations set forth extensively in two passages,"
+" Leviticus 26:14-43, and Deuteronomy 28:15-68."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "A curse presupposes an ultimate power and authority over us who is the ultimate"
+" and legitimate Judge over us, God our Creator. It is closely related to the de"
+"ath sentence (Deut. 21:22-23). It is also essentially related to God's law. Pau"
+"l declares, in Galatians 3:10-14,"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "10. For as many as are of the works of the law are under the curse: for it is w"
+"ritten, Cursed is every one that continueth not in all things which are written"
+" in the book of the law to do them.11. But that no man is justified by the law "
+"in the sight of God, it is evident: for, The just shall live by faith.12. And t"
+"he law is not of faith: but, The man that doeth them shall live in them.13. Chr"
+"ist hath redeemed us from the curse of the law, being made a curse for us: for "
+"it is written, Cursed is every one that hangeth on a tree:14. That the blessing"
+" of Abraham might come on the Gentiles through Jesus Christ; that we might rece"
+"ive the promise of the Spirit through faith."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The law is not set aside by Christ's atonement but simply the curse of the law,"
+" its death penalty. If, however, our lives reveal no true faith nor repentance,"
+" and we despise God's law, we are given a very grim warning:"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "26. For if we sin willfully after that we have received the knowledge of the tr"
+"uth, there remaineth no more sacrifice for sins,27. But a certain fearful looki"
+"ng for of judgment and fiery indignation, which shall devour the adversaries. ("
+"Heb. 10:26-27)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Our failure with respect to Jesus Christ makes us accursed. Thus, Paul tells us"
+","
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "If any man love not the Lord Jesus Christ, let him be Anathema Maranatha. (1 Co"
+"r. 16:22)8. But though we, or an angel from heaven, preach any other gospel unt"
+"o you than that which we have preached unto you, let him be accursed.9. As we s"
+"aid before, so say I now again, If any man preach any other gospel unto you tha"
+"n that he have received, let him be accursed. (Gal. 1:8-9)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "This issue is clear. Either we, by confession and restitution, remain in God's "
+"grace, or we, by assuming our freedom to live our lives by our private gospel o"
+"f independence from God, end, thereby, lacking a true confession of sin or of f"
+"aith, and we pass under God's curse."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Justice, \n"
+"																	Phil"
+"osophy, \n"
+"																	Theology, \n"
+"																	Culture , \n"
+"		"
+"															Biblical Commentary, \n"
+"																	Epistles, The, \n"
+"	"
+"																Gospels, The, \n"
+"																	Pentateuch, \n"
+"										"
+"							Church, The, \n"
+"																	Christian Reconstruction, \n"
+"						"
+"											Major Prophets, \n"
+"																	Media / Arts"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

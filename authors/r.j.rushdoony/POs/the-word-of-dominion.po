@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "The Word of DominionBy R. J. RushdoonyApril 23, 2014"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Van Til has described very clearly the basic issue and area of conflict between"
+" Biblical and modern thought:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "\n"
+"That issue may be stated simply and comprehensively by saying that in the "
+"Christian view of things it is the self-contained God who is the final point of"
+" reference while in the case of the modern view it is the would-be self-contain"
+"ed man who is the final point of reference in all interpretation.\n"
+"For the C"
+"hristian, facts are what they are, in the last analysis, by virtue of the place"
+" they take in the plan of God.1"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Man’s thinking, however abstract, has a personal frame of reference. Thus, what"
+"ever conclusions man may come to with respect to the cosmos and life, it is one"
+" by which a person is the ultimate point of reference. Van Til, has shown us pl"
+"ainly the implications of this:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "\n"
+"In the last analysis every theology or philosophy is personalistic. Everyt"
+"hing “impersonal” must be brought into relationship with an ultimate personal p"
+"oint of reference. Orthodoxy takes the self-contained ontological trinity to be"
+" this point of reference. The only alternative to this is to make man himself t"
+"he final point of reference.2"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In order to maintain himself as the ultimate point of reference, fallen man mus"
+"t deny the word of God. For God to speak an infallible word means that God is t"
+"he ultimate point of reference and the ultimate Person and authority. For man t"
+"o have the freedom to be that authority and point of reference means that of ne"
+"cessity the infallible word of God must be either openly denied or its authorit"
+"y nullified by reinterpretation. The word of dominion must be preserved for man"
+"."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Van Til has described the marks of this fallen man, the covenant-breaker and ch"
+"ampion of man’s word as against God’s word. First, this would-be autonomous man"
+" “thinks of himself as the ultimate judge of what can or cannot be.” As he inte"
+"rprets facts or events, he allows no other word to interpret, govern, or predic"
+"t history. Second, this lawless man denies that God, if He exists, can control "
+"and determine any and all phenomena. There can be no word of authority, dominio"
+"n or predestination from God. Third, it is held that “man’s thought is, in the "
+"final analysis, absolutely original.” If there is any determination or interpre"
+"tation in history, it is by man. Fourth,"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "\n"
+"The facts of man’s environment are not created or controlled by the provid"
+"ence of God. They are brute facts, uninterpreted and ultimately irrational. The"
+" universe is a Chance controlled universe. It is a wholly open universe. Yet, a"
+"t the same time, it is a closed universe. It is so in this sense: it cannot be "
+"what Christ says it is, namely, created, governed, and redeemed by him. In this"
+" one respect the cosmos is closed - there can be no such God as the Bible revea"
+"ls. This is the universal negative of the open-minded men of philosophy and sci"
+"ence.3"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Fallen man strips God from the universe and denudes it of law and meaning in or"
+"der to be free to play god therein, and to issue his own law and meaning. Man c"
+"an speak only the word of dominion in an empty universe, a cosmos awaiting man’"
+"s spirit to move over it and to provide it with form and meaning. Man therefore"
+" wills that the cosmos be a chaos so that its order will become the product of "
+"his own life-breathing word. Man does not approach reality in any spirit of neu"
+"trality: he approaches it either as God’s covenant-keeping man or as a covenant"
+"-breaking man whose will it is to be his own god. There is thus inescapable con"
+"flict as to who speaks the word of dominion, the infallible word which is the u"
+"ltimate point of reference. Van Til has written:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "\n"
+"In saving us from sin, Christ saves us unto his service. Through the salva"
+"tion that is ours in Christ by the Spirit, we take up anew the cultural mandate"
+" that was given man at the onset of history. Whether we eat or drink or whateve"
+"r we do, we want now to do all to the glory of God...\n"
+"The cultural mandate "
+"is to be fulfilled in our handling of the facts or events of our environment. M"
+"an must subdue, to the service of Christ, the earth and all that is therein. As"
+" the Christian constantly does so, he is constantly conscious of the fact that "
+"he is working on God’s estate. He is not himself the owner of anything, least o"
+"f all himself. He is the bondservant of God through Christ. Therein lies his fr"
+"eedom. Those who still think of themselves as owners of themselves and think of"
+" the world as a grab-bag cannot properly evaluate the situation as it really is"
+". Unbeknown to them, they too are working on God’s estate.4"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "As usual, Van Til puts his finger clearly on the basic point. Man was created f"
+"or God’s service, to be His priest, prophet, and king and to make of this earth"
+" God’s developed and glorious kingdom. This calling is basic to man’s nature. F"
+"allen man does not abandon this calling. Instead, he seeks to convert it to his"
+" own perverse goal, to establish the kingdom of Man with man as god and as the "
+"ultimate point of reference. The beginning of that revolt is the question, “Yea"
+", hath God said?” (Gen. 3:1). The authoritative and infallible word, the word o"
+"f dominion, the tempter held, is not from God but from the creature. The task o"
+"f exercising dominion and subduing the earth will be made easier, he held, if m"
+"an begins by denying God’s word and asserting his own word as the word of knowl"
+"edge and the word of dominion. By reserving the tree of knowledge to Himself, G"
+"od reserved dominion to Himself. God declared thereby that the interpretation o"
+"f facts and the moral character of all things was determined by His word. God’s"
+" word is the word of dominion because His is the creative word. Having made all"
+" things, He has established the character, meaning, and purpose of all things. "
+"Good and evil are determined by His being and purpose, so that the ultimate poi"
+"nt of reference in all things is God and His word, the binding word and the wor"
+"d of dominion."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The tempter’s belief was and is that the creature, in order to fulfil his calli"
+"ng to dominion, must exercise it independently, i.e., that the image of God in "
+"man requires man to be god. Man must therefore become his own source of the wor"
+"d of dominion; man must declare that things are good and evil insofar as they s"
+"erve or do not serve man’s purpose and glory. Man must begin the construction o"
+"f his true kingdom, the kingdom of Man, by declaring that he himself is the tre"
+"e of knowledge, the source of the word of dominion. It is not the triune God ou"
+"t of whom the river of life proceeds, and who is the source of the tree of know"
+"ledge (Rev. 22:1-2), but man himself."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Note that Van Til points out, “In saving us from sin, Christ saves us unto his "
+"service.” Arminian salvation serves fallen man; it “frees” him supposedly from "
+"the consequences of the fall to pursue his own independent way in building the "
+"kingdom of Man. But salvation is not merely fire insurance, and preaching which"
+" stresses heaven and hell as motives for salvation is clearly humanistic and se"
+"rves the interests of fallen man. It is worshipping and serving the creature ra"
+"ther than the Creator (Rom. 1:25). The call to salvation is a word of command f"
+"rom the sovereign God to cease from our self-service and self-worship and to se"
+"rve and worship Him. It is the word of dominion which rescues us from the evil "
+"and anarchy of the kingdom of Man to the service of the kingdom of God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Thus, wherever this creation mandate (or cultural mandate) is ignored in preach"
+"ing and in the plan of salvation, it should not surprise us that the infallible"
+" word is subtly replaced or altered into the word of man. Fire insurance establ"
+"ishes no responsibility."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "As a result, while Harold Lindsell’s very able and conscientious defense of the"
+" infallible word is to be commended, the history he recounts should not surpris"
+"e us.73 Men whose idea of salvation is a self-serving one will soon have only a"
+" self-serving word. They can tolerate no other word."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "This is exactly what we see. If the world is not to be viewed as God’s kingdom,"
+" God has no dominion word and law for it; then man’s dominion word is the answe"
+"r. If there is no dominion word of sovereign grace in salvation, then there is "
+"no dominion word for any realm."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "1. Cornelius Van Til, “Introduction,” in Benjamin Breckinridge Warfield: The In"
+"spiration and Authority of the Bible. (Nutley, N.J.: Presbyterian and Reformed "
+"Publishing Company, 1948). p. 18."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "2. Ibid., p. 66"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "3. Cornelius Van Til: The Protestant Doctrine of Scripture. DenDulk Foundation."
+" (Nutley, N.J.: Presbyterian and Reformed Publishing Company, 1967). p. 13."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "4. Ibid., pp. 1f."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Culture , \n"
+"																	Dominion, \n"
+"																	Philoso"
+"phy, \n"
+"																	Theology"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

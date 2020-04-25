@@ -1,0 +1,75 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "God and Our PeaceBy R. J. RushdoonyApril 17, 2007"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 267:5 (Oct. 3, 1987), p. 40."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The Puritans were a remarkable people who accomplished far more than most men e"
+"ver have because they knew what they believed and were totally dedicated. They "
+"numbered perhaps four percent of the English people when they took over the cou"
+"ntry; other men lacked their determination. One Puritan pastor, Richard Rogers "
+"of Wethersfield in Essex, was told by “a gentleman,” “Mr. Rogers, I like you an"
+"d your company very well, only you are too precise.” Rogers replied, “Oh sir, I"
+" serve a precise God.” For this reason, God’s every Word had to be heeded and o"
+"beyed. Christopher Love stated it this way: “If you break God’s law, God will b"
+"reak your peace.”"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Church members now number into the millions, but they lack the old-time power. "
+"They are too often content with pious gush, not an active faith with obedience."
+" They do not want a precise God to command them, but they want God to be precis"
+"e with His blessings: God is there to serve them, not to require anything of th"
+"em."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Joshua’s warning to Israel is seldom heard today. He said to a people of casual"
+" faith: “Ye cannot serve the LORD: for he is an holy God; he is a jealous God; "
+"he will not forgive your transgressions nor your sins. If ye forsake the LORD, "
+"and serve strange gods, then he will turn and do you hurt, and consume you, aft"
+"er that he hath done you good” (Josh. 24:19–20)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Have you given God reason to break your peace?"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Puritanism"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

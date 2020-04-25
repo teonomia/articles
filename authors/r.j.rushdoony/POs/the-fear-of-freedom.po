@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "The Fear of FreedomBy R. J. RushdoonyAugust 14, 2007"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 242:3 (Feb. 1, 1975), p. 55."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "E. R. Dodds, in his study of The Greeks and the Irrational, titles a chapter “T"
+"he Fear of Freedom.” The whole of the ancient world was marked by this fear of "
+"freedom. Plato and Aristotle planned states in which freedom was to be denied t"
+"o most men, and pagan rulers uniformly acted on this principle. Freedom was bel"
+"ieved to be a dangerous thing, and only a handful of rulers could be trusted wi"
+"th it."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Through the centuries, men have noticed how fearful men are of freedom and how "
+"most men are unable to cope with it. T. H. Huxley said, “A man’s worst difficul"
+"ties begin when he is able to do as he likes.”"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Certainly, in our day most men pay lip service to freedom but in reality vote a"
+"gainst it with their lives and their ballots. Our legislators assume that farme"
+"rs and farm workers cannot be trusted with freedom, and capital and labor both "
+"assume that the less freedom for others, the better all will be."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Men do not like freedom because they themselves are not free by nature. The bas"
+"ic slavery, slavery to sin, is the nature of their being, and they show their s"
+"lavery in every area of life."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Jesus declared, “Whosoever committeth sin is the servant [or slave] of sin … If"
+" the Son therefore shall make you free, ye shall be free indeed” (John 8:34, 36"
+"). The root of slavery is in the nature of man."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "We are today surrounded by a slave people because they are by nature unregenera"
+"te. They are most at home in slavery, and most comfortable with it. They will v"
+"ote for slavery because they are slaves. They dislike and fear freedom because "
+"they are at enmity with God. Give them freedom and they will vote it out of exi"
+"stence and work in every way to destroy it."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Men fear freedom, because it means life and responsibility under God. The appea"
+"l of slavery is that it offers a life free of responsibilities, and this is alw"
+"ays the appeal of slavery. Some nations have in the past had as many as four-fi"
+"fths living in actual slavery and content with it, because it took responsibili"
+"ty off their shoulders."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The flight from freedom is always first of all the flight from God, who created"
+" man to be responsible and to exercise dominion over the earth under Him. The c"
+"hoice is always God or slavery."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Statism, \n"
+"																	Philosophy, \n"
+"																	Cultur"
+"e , \n"
+"																	Government, \n"
+"																	Dominion, \n"
+"				"
+"													American History, \n"
+"																	World History, \n"
+"						"
+"											Gospels, The"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

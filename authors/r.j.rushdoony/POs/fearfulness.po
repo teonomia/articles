@@ -1,0 +1,97 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "FearfulnessBy R. J. RushdoonyJanuary 30, 2017"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Who are the reprobates? This is a question we need to ask, because the Bible te"
+"lls us who they are in Revelation 21:8. You will find some obviously bad charac"
+"ters on the list, “the abominable,” murderers, whoremongers, and others who obv"
+"iously belong there, but the first two, who head the list, are very important. "
+"They are “the fearful, and unbelieving,” and they are essentially one and the s"
+"ame."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "To be fearful means to distrust God’s promises and to put more stock in what th"
+"e world promises and threatens than what God promises and threatens us with. To"
+" be fearful means to believe in man and his power and to disbelieve in God and "
+"His power. \n"
+" "
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "We are a fearful and unbelieving generation. We are always fearful where we sho"
+"uld not be, and indifferent to God and His power and Word. We are summoned by a"
+"ll of Scripture to believe in the Lord. To believe means to say Amen to, to put"
+" our whole life on the line in terms of God’s Word. \n"
+" "
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "If we disbelieve God, we believe in man and this world, and our lives are gover"
+"ned by man and the fear of man. \n"
+" "
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Every man has a faith, in himself, in the state, in other men, but in something"
+". If a man’s faith is in anything other than the Lord, he will be fearful and u"
+"nbelieving in the eyes of God, fearful of men because he does not believe in th"
+"e Lord.\n"
+" "
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "To be fearless in the Lord does not require us to be great and powerful men, bu"
+"t only to believe in the great and powerful God. He is our shield and our defen"
+"der (Ps. 33:20). God therefore allows no excuses for fearfulness. Beware lest y"
+"ou make excuses.\n"
+" "
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "This essay appears in A Word in Season, vol. 1."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Church, The, \n"
+"																	Culture , \n"
+"																	Domi"
+"nion, \n"
+"																	Government, \n"
+"																	Justice, \n"
+"			"
+"														Theology"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

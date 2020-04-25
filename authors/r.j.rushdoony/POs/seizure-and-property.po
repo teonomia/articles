@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Seizure and PropertyBy R. J. RushdoonySeptember 06, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 236:9 (May 6, 1972), p. 31."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The history of words sometimes tells us much about the history of man. The word"
+" “seizure” is a good example. Originally, the word “seizure” was a legal term f"
+"or ownership. “Seize” meant legal possession, and “seizing” or “seisin” meant i"
+"n early English law possession with quiet enjoyment. In common law “seizen in d"
+"eed” means actual possession, and “seizing in law” means the right of present p"
+"ossession."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Now, of course, “seize” means to confiscate, to take possession by force. The w"
+"ord has thus come to mean its exact opposite, changing from the ownership of pr"
+"operty to the confiscation by force of something or anything."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The history of the change in the meaning of this English word is a complex one,"
+" but basically it tells us this: the law, which should have confirmed a man in "
+"his “seizing,” began to rob a man of his property. The lords and kings of Engla"
+"nd worked too often to dispossess by law a man from his property, and the law o"
+"f “seizing” became a law of seizure in the modern sense. The change in the mean"
+"ing of the word thus tells us of a change in the life of the kingdom."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Behind that change was a spiritual change. The Renaissance and its humanism des"
+"troyed the old sense of Christian responsibility and law, so that, in terms of "
+"Judges 21:25, because Christ was not King in the hearts of men, “every man did "
+"that which was right in his own eyes.” The result was a rapid decline of honest"
+"y and godliness in every area of life and, lacking moral restraints, men began "
+"to exploit one another. Those who had the power to use the courts to do so bega"
+"n to confiscate the property of other men, so that the very legal term for owne"
+"rship came to mean confiscation."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "We are drifting closer to such a condition daily. To be a property owner is to "
+"be the target of confiscatory taxes, crime, and hostility. Men who are professe"
+"d “peace lovers” are increasingly also bombers and rioters. Men who claim to be"
+"lieve in a religion of love are most likely to spout hatred. Good words are use"
+"d as a cover for evil ends, and peace may come to mean war someday, if this tre"
+"nd continues."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "No reform movement can change these things more than superficially. Only Christ"
+" can change the hearts of men, and Christ will not rule a man who will not be H"
+"is absolute possession. Christ is not merely a resource or a power for men to r"
+"ely on but an absolute Lord and King who claims and seizes us as His property. "
+"If we are His, we must obey His law and serve His Kingdom. We are then not our "
+"own, for we “are bought with a price” by Jesus Christ (1 Cor. 6:20). He made us"
+" so that we and all creation are His property. By His redemption, we are doubly"
+" His."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "If we are guilty of seizure in the modern sense, that is, if we have taken our "
+"lives as our own, to be lived apart from Christ, can we expect our world to sho"
+"w respect for our property when we ourselves rob God of His due? When we restor"
+"e ourselves, our homes, churches, schools, civil government, and all things els"
+"e to God the King, then God will restore to us what is our due property."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Business, \n"
+"																	Chr"
+"istian Reconstruction, \n"
+"																	Conspiracy, \n"
+"																	"
+"Culture , \n"
+"																	Dominion, \n"
+"																	Government, \n""
+"
+"																	Justice, \n"
+"																	Reformed Thought"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

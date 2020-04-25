@@ -1,0 +1,90 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "ConsequencesBy R. J. RushdoonyFebruary 26, 2007"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 245:6 (Oct. 16, 1976), p. 33."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "I am told by a reliable authority that, on a major urban freeway, the acts of a"
+" driver have far-reaching effects. Thus, if at a particular spot on a freeway, "
+"drivers in any lane, or all lanes, brake their car at a particular moment, a lo"
+"ng chain reaction sets in. For at least an hour, and sometimes as much as two h"
+"ours, all cars reaching that approximate point during the rush hour will be bra"
+"king their cars. A single action sets up a chain of consequences and reactions "
+"which last long after the braking driver has passed."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "This kind of chain of consequences is even more true in the world of ideas. Whe"
+"rever someone throws out an idea which runs counter to God’s purposes, a long c"
+"hain of reactions and consequences follows. Our Lord had this in mind when He d"
+"eclares, “[W]hoso shall offend one of these little ones which believe in me, it"
+" were better for him that a millstone were hanged about his neck, and that he w"
+"ere drowned in the depth of the sea” (Matt. 18:6). We do not live in a world wi"
+"thout people. What we are and what we do has an impact on the world around us. "
+"We can set up a variety of consequences by our actions. Our unwillingness to ma"
+"ke a stand conveys itself to others, and we become a millstone of impediment to"
+" them. Again, our false or evil decisions, words, and actions carry an impact o"
+"n our world which adds to the evil we compromise with."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "On the other hand, to be a man of faith and obedience to the Lord sets up a cha"
+"in of reactions also, a very healthy one. Several years ago, I met a man in my "
+"travels who was deeply indebted for his faith and life to a man he had never me"
+"t. The first man had made an impact on the life of a second man, who had influe"
+"nced a third, and so on across the country. Quite accidentally, they learned of"
+" the start of their new life, and it made them strongly aware of the chain of c"
+"onsequences in every man’s actions."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "No man can live unto himself. As John Donne long ago observed, no man is an isl"
+"and. Every man is a part of a community of life, and his thoughts, words, and a"
+"ctions have consequences in his life and the lives of others."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The question is this: will your consequences bring you a reward or a millstone "
+"around your neck? Remember, our Lord says, “[E]very idle word that men shall sp"
+"eak, they shall give account thereof in the day of judgment” (Matt. 12:36)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Culture , \n"
+"																	Dominion"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

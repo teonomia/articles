@@ -1,0 +1,95 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Testing and PurityBy R. J. RushdoonyJuly 12, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 231:6 (Sept. 20, 1969), p. 22."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The life of Olympia Fulvia Morata (1526–1555) is very remote to us now. The bri"
+"lliant daughter of a great Italian scholar, she herself became famous as a writ"
+"er and a philosopher. But, for a girl brought up in very good circumstances, he"
+"r life was especially stormy. Her early years were in the luxury and gayety of "
+"court life. When she moved to Germany with her husband, Andrew Grunthler, they "
+"were trapped in the siege of Schweinfurt, in Franconia for nine months. There w"
+"as death outside the walls, and within, the plague, which killed half the popul"
+"ation. Andrew himself came close to death from it. The city was seized, and the"
+"y lost all their cherished possessions in the fire and pillage and fled for the"
+"ir lives. As they fled, her husband was taken prisoner. Reunited, they went to "
+"Heidelberg in 1554, where Andrew was to be professor of medicine, but within tw"
+"o years, Olympia was dead, and shortly thereafter, her husband and brother died"
+"; their health had been broken by the siege, famine, and plague experiences. Al"
+"l three were buried in the Chapel of St. Peter at Heidelberg."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "It was a short and hard life for a remarkable and brilliant girl who had been b"
+"rought up in association with royalty, nobility, and scholars. But Olympia, a d"
+"evout Christian, declared, “The prize of life comes not from learning, but from"
+" conflict and trial.” Well, there can be too much conflict and trial, and certa"
+"inly Olympia had more than her share of it, but she never complained. On the co"
+"ntrary, she felt that it was the making of her."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Today we fight shy from conflict and trial. We want to spare ourselves and our "
+"children from all problems and trials. But, as one biologist has observed, “Man"
+" is a bad weather animal,” that is, man thrives and progresses in terms of trou"
+"bles and testing."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The problem today is that too many people, young and old, are untried and untes"
+"ted, and they are, moreover, rebelling against the very principle of testing. S"
+"ome claim that even school tests are wrong. In all this, they are not only fool"
+"ish, but very wrong. The Biblical word for “purity” means tested, refined by fi"
+"re. We tend to think of purity as something fresh, virginal, untouched, celloph"
+"ane wrapped, but the Biblical word has the meaning of old and tested, refined, "
+"experienced, and purged of dross by fire."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Olympia was grateful for her testing. We can pray and trust that we and our lov"
+"ed ones be spared the extremities of her trials, but we cannot pray that we be "
+"spared from testing by the fires of conflict and trial. It is God’s means of re"
+"fining man: “ and the fire shall try every man’s work of what sort it is” (1 Co"
+"r. 3:13)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Culture , \n"
+"																	Theology"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

@@ -1,0 +1,142 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "TheologyBy R. J. RushdoonyApril 24, 2017"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Adapted from Systematic Theology in Two Volumes"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Systematic Theology is an effort to apply Scripture systematically to various s"
+"pheres of faith and life. At the same time, the title distresses me, because to"
+"o often "systematic theology" now has reference to a seminary subject taught by"
+" a member of the "Theology and Philosophy of Religion Department." As such, it "
+"is a separate subject from "Biblical Theology," "Practical Theology," and vario"
+"us other divisions of the subject. This kind of academic dissection and analysi"
+"s may perhaps be necessary, but I wonder, for example, how Biblical Theology an"
+"d Systematics can be separated? Is it not wrongly dividing the word of truth? A"
+"re we not suffering from too much scholarly dissection where the living word is"
+" needed?"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Seminaries, for example, divide Biblical studies often into two departments, "O"
+"ld Testament" and "New Testament," and, with some professors, never the twain s"
+"hall meet. These men will refer questions which connect the Old and the New Tes"
+"taments to the other department! Some seem more anxious about offending a colle"
+"ague than speaking plainly about the word of God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "It is a serious mistake to see theology as an academic exercise. The word theol"
+"ogy means God's word; it begins with the presupposition that Scripture is the w"
+"ord of God, and the duty of the theologian is to understand it and to apply it "
+"to every area of life and thought."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Theology belongs in the pulpit, the school, the work-place, the family, and eve"
+"rywhere. Society as a whole is weakened when theology is neglected. Without a s"
+"ystematic application of theology, too often people approach the Bible with a s"
+"morgasbord mentality, picking and choosing that which pleases them. Then, in th"
+"e name of Christianity, we have interpretations of the meaning of God the Fathe"
+"r, God the Son, and God the Holy Spirit which are alien to Scripture."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "A modernist scholar stated recently that he went to the Bible for what would be"
+" applicable to the context of modern life; this meant that much, if not most of"
+" Scripture, was relegated to only an ancient application. This is no different "
+"from the approach of evangelicals and fundamentalists who want to limit the Bib"
+"le to its salvation message; such a limitation also perverts the word."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "For me theology means the total mandate of God through His word. What I have wr"
+"itten only scratches the surface; it is an introduction to the subject, and it "
+"is written to move men to faith and action. The neglect of theology in our time"
+" is in part due to the theologians, who have multiplied the various divisions, "
+"so that, among the divisions of study have been Biblical Theology, Systematic T"
+"heology, Dogmatical Theology, Exegetical Theology, Practical Theology, and so o"
+"n. The areas of study also include such subjects as Natural Theology and Specul"
+"ative Theology. With the inventions of so many variations, it is no wonder that"
+" both pastors and people have lost interest in the subject and avoid it."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Clarity of doctrine and theological precision are essentials, but this does not"
+" justify turning theology into an esoteric sphere of studies for scholars. Almo"
+"st all the contents of this study were delivered orally to Christian laymen and"
+" women and discussed with them."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In our time, theology has in the main left the pulpit for the seminary classroo"
+"m. The Calvinistic churches retain some theology, but in a frozen and often irr"
+"elevant form. Arminian churches have largely abandoned theology, the doctrine o"
+"f the triune God and His being, word, purpose, and works, to confine themselves"
+" to the doctrine of salvation. Humanism sees man as the measure of all things, "
+"but its "all things" is limited to the material universe. For Arminianism "all "
+"things" includes God. They go thus beyond humanism in this respect in that for "
+"them the concern of God and His universe is man's salvation, an amazingly man-c"
+"entered and egocentric view. Our Lord, to the contrary, says, "seek ye first th"
+"e kingdom of God, and his righteousness (or, justice)" (Matt. 6:33). The church"
+"es of our time seem to believe that God exists to save man and keep him happy. "
+"Theology is therefore only studied as an adjunct to the doctrine of salvation. "
+"This turns the world of scripture upside down. How can anyone believe that God "
+"blesses this, or feels other than displeased? Are we not inviting God's judgmen"
+"t?"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Since so many now believe that God exists to serve them, is it any wonder that "
+"they also view the church and clergy in like terms? The church and the clergy h"
+"ave for these people as their justification the service of man. They do not hes"
+"itate to demand time and effort from the clergy for all their needs with less c"
+"oncern to give their time, efforts, and money to the work of the Kingdom of God"
+". When God's judgment comes justly upon them, they cry out, How could God do th"
+"is to me? Their standard is themselves; their gospel is, my will be done, by Go"
+"d, the church, the clergy, and all men. Theology is weak today, because anthrop"
+"ology and psychology reign, i.e., the doctrines of man, and of his psyche. But "
+"the world is not governed by your and my will and wishes, but by the triune God"
+" and His eternal decree. Until we learn that fact, and say Amen to it as person"
+"s and societies, we shall only gain God's wrath and judgment. Of course, our hu"
+"manistic age finds the wrath of God a remote concept; it will learn otherwise, "
+"because God is God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Theology"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

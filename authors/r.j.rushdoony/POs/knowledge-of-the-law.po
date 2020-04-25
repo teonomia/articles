@@ -1,0 +1,135 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Knowledge of the LawBy R. J. RushdoonyJuly 30, 2015"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "\n"
+"	\n"
+"		1. The law must be published openly: Deuteronomy 27:1-4, 8.\n"
+"	\"
+"n"
+"		2. The whole law must be read publicly at the end of every seventh or sab"
+"batical year: Deuteronomy 31:9-13."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	The number of laws given by God is a short one, 613 by the rabbinical rec"
+"koning which divides one law at times into several, less by Christian reckoning"
+"s. It was mandatory that this body of laws be read and taught faithfully. In Jo"
+"shua 8:30-32 we read that Joshua had the laws published in an open place; this "
+"assumes literacy on the part of the people. We see an instance of the public re"
+"ading of the law in 2 Kings 23:1-3, an aspect of King Josiah’s reformation."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	The proverb, “Ignorance of the law is no excuse,” has reference to Biblic"
+"al law. Statist law, and especially bureaucratic law, requires great libraries "
+"to contain, so that ignorance of man’s law is inescapable. First, the laws are "
+"too numerous for even lawyers to know; and, second, humanistic law has no basis"
+" in the order of things, whereas God’s law is imprinted by the Creator in His c"
+"reatures."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Where laws are too numerous for men to know, then knowledge of the law is"
+" restricted to specialists in the law, to lawyers. But humanistic law is too va"
+"st in volumes for even lawyers to know it all, so that specialization in partic"
+"ular fields becomes necessary. In the 1970s, the vice-president of an internati"
+"onal bank said that the laws and regulations governing banking were so many and"
+" so contradictory that any banker could be imprisoned at the will of Federal au"
+"thorities. This is now no doubt true of all of us."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	It is questionable that a free society can long exist when its laws are u"
+"nknown to most of the citizens. It is ironic that 20th century countries must e"
+"mphasize education while at the same time keeping their peoples most ignorant o"
+"f the law. This is a precondition of tyranny."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Today, who can know the law? Congress passes laws of more than 2,000 page"
+"s in length, which no member of Congress ever reads in full. This is a prescrip"
+"tion for tyranny and dictatorship."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	The Ten Commandments sum up God’s law in ten sentences. All the laws whic"
+"h develop these Ten Commandments are comprehended in a short number of pages. T"
+"hey are moral premises which all men know, whether they accept them or not. Who"
+" can know the law of any state now? One lawyer has observed that the best and m"
+"ost learned men in criminal law are convicted criminals who spend their time in"
+" prison libraries studying the law to find loopholes in it. A society in which "
+"criminals knowthe law far better than the law-abiding citizenry is a strange on"
+"e, to say the least."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Ignorance of God’s law, a willful ignorance, is rampant in the churches, "
+"and by choice. For this ignorance, God will in some way exact His price."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	3. The law must be studied: Deuteronomy 6:6-7, 20-25; 11:18-19. The requi"
+"rement is that one teach them to the children and study them constantly, becaus"
+"e God’s law is the way of righteousness or justice for His redeemed peoples."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	4. There can be no adding to or subtracting from God’s law: Deuteronomy 4"
+":1-2. The law is God’s law, and man has no right to alter it, add to it, nor to"
+" subtract from it. It is God’s grace that we are given His law as the way of li"
+"fe. Since we created neither ourselves nor this world, we must obey the Creator"
+"’s law as His way of life for us. As Psalm 1 makes clear, those who do not deli"
+"ght in the law of the Lord have chosen death."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Taken from Institutes of Biblical Law, Vol. 3: The Intent of the Law, p. 43."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Pentateuch"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

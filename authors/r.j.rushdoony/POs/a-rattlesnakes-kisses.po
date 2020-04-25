@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "A Rattlesnake’s KissesBy R. J. RushdoonyNovember 13, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 255:2 (Aug. 8, 1981), p. 25G."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "I returned late last night from another state, where a prominent and nationally"
+" known pastor was on trial because of the Welfare Department’s attempts to cont"
+"rol his Christian school and home for delinquent girls. I told my wife with ama"
+"zement of the efforts of the state, despite a state law forbidding all such con"
+"trols over Christian agencies. A state spy’s report was introduced by the defen"
+"se, and a state official was compelled to read the stupid document. It was abou"
+"t a church prayer meeting, what was sung, who prayed, how many girls were in th"
+"e restroom at one time, and so on and on! When I told my wife how amazed I was "
+"at the evil and stupidity of it all, she said, “Don’t expect kisses from a ratt"
+"lesnake.”"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "She was right, of course. Apart from God, men are as trustworthy as rattlesnake"
+"s. St. Paul tells us of such men: their mouths are open sepulchers, i.e., their"
+" words give death, not life, and they are full of cursing and bitterness. They "
+"are quick to hurt and kill, given to destruction and misery, and aliens to peac"
+"e, because “[t]here is no fear of God before their eyes” (Rom. 3:18)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Giving a man a high office does not make him good: it only increases the scope "
+"of his evil. No man is made a saint by man’s election. To expect good from ungo"
+"dly men is like expecting figs from thistles, according to our Lord (Matt. 7:16"
+"). We have been giving power for years to all kinds of agencies and bureaus wit"
+"hout considering that it is evil to create such concentrations of power. Too mu"
+"ch power is dangerous in any man’s hands, and certainly a great source of evil "
+"in ungodly hands. We cannot breed rattlesnakes and expect nursemaids."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Christian Reconstruction, \n"
+"																	Culture , \n"
+"								"
+"									Statism"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

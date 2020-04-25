@@ -1,0 +1,211 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "Creation, Providence, and EschatologyBy R. J. RushdoonyMarch 23, 2015"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	David, faced with enemies, an uncertain future, and costly moral choices,"
+" prayed earnestly:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "\n"
+"	\n"
+"		1. Unto thee, O LORD, do I lift up my soul.\n"
+"	\n"
+"		2. O my Go"
+"d, I trust in thee: let me not be ashamed, let not mine enemies triumph over me"
+".\n"
+"	\n"
+"		3. Yea, let none that wait on thee be ashamed: let them be ashame"
+"d which transgress without cause.\n"
+"	\n"
+"		4. Shew me thy ways, O LORD: teac"
+"h me thy paths.\n"
+"	\n"
+"		5. Lead me in thy truth, and teach me: for thou art"
+" the God of my salvation; on thee do I wait all the day. (Ps. 25:1-5)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Man, having been created not only by God but in the image of God, lives in term"
+"s of an inescapable purpose which is basic to his being. Man was created to ser"
+"ve and glorify God and to become a working citizen of the Kingdom of God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Man thus has a given nature by virtue of his creation. This nature the fa"
+"ll cannot alter. The fall is a moral, not a metaphysical, fact. Fallen man cann"
+"ot evade the nature of his being. He is God’s creature, created in God’s image."
+" His moral rebellion against God does not alter man’s being; it simply perverts"
+" the goals thereof. Thus, to state the matter theologically, fallen man substit"
+"utes for God’s eschatology his own man-centered one."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Eschatology is defined by the dictionary as the branch of theology which "
+"“treats of death, resurrection, immortality, the end of the world, final judgme"
+"nt, and the future state.” The root of the word is eschatos, last. This definit"
+"ion is accurate yet limited. Eschatology is much more than a concern about the "
+"end, or the last times. Eschatology sets forth the goal of man and history and "
+"is thus inseparable from purpose."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Eschatology is thus a very intensely practical concern. Questions such as"
+", Why am I here?; What is the meaning and purpose of life?; What should we do, "
+"and why?; and, How will it all end?; all have to do with eschatology."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The eschatology of fallen man is humanistic, man-created and man-centered. It s"
+"eeks to give meaning to an otherwise meaningless world, to establish a thin edg"
+"e of meaning against chaos and the void. Not surprisingly, humanistic eschatolo"
+"gies end in despair. Having no doctrine of theistic creation, man for them begi"
+"ns and ends in the void. Again, having no doctrine of providence, their brighte"
+"st eschatological hopes operate against the frustration of brute and meaningles"
+"s factuality. Often, on borrowed, Biblical premises, humanistic eschatologies w"
+"ill flourish briefly. Thus, the belief in progress was a secularized version of"
+" the doctrine of providence, and it flourished for a time on that borrowed capi"
+"tal. In time, of course, it was apparent that any belief in progress, without t"
+"he presupposition of the God of Scripture, is rootless and futile, and the fait"
+"h has waned accordingly."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Humanistic eschatologies regularly appear as the great hope of fallen man, but,"
+" in due time, they give way to defeat and despair. Socialism, the state, statis"
+"t education, sociology, psychotherapy, and much more have been eschatological i"
+"nstruments, designed by fallen man to usher in the humanistic millennium. These"
+" are neither the first nor the last of such instruments. Certainly, the sexual "
+"revolution and existentialism have been eschatological and their promises extra"
+"vagant at times."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Man requires a valid goal: the image of God within man mandates his being and r"
+"equires man to move in terms of God’s ordained purposes. Augustine, out of his "
+"own experience, saw this, as he made clear in his Confessions: “Our hearts are "
+"restless till they rest in Thee.” Francis Thompson, in “The Hound of Heaven,” m"
+"ade the same point, which, of course, was first set forth by David in Psalm 139"
+"."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	Creation has a purpose, and that purpose is God-ordained and is written i"
+"nto the being of all creation, so that all of creation, organic and inorganic, "
+"moves in terms of that purpose. Paul, in Romans 8:19-23, makes this clear. Any "
+"deflection from that eschatological goal, from that purpose, is death. Sin, as "
+"the deflection of man from God’s eschatology to a man-made one, is thus clearly"
+" death. Creation is thus inseparable from eschatology."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	The same is true of providence. All of God’s providence moves in terms of"
+" His glorious and eternal purpose. Thus, the declarations of eschatology cannot"
+" be separated from the affirmations of providential care which Scripture sets f"
+"orth. For example, in Psalm 34:7, we read, “The angel of the LORD encampeth rou"
+"nd about them that fear him, and delivereth them,” and in Psalm 91 we have a mo"
+"ving account of God’s providential care of His Son, Jesus Christ, and of us in "
+"Him: “for he shall give his angels charge over thee, to keep thee in all thy wa"
+"ys” (Ps. 91:11). The Lord’s care of His covenant people is not for their sakes,"
+" but for His covenant’s sake, and for His eternal purposes. It is eschatologica"
+"l. There is no other cause in the universe which is ultimate and determinative "
+"than the triune God and His eternal decree. The goals of providence are not man"
+"-centered. Rather, it is man himself, willingly or otherwise, who is God-center"
+"ed. Man’s being is thus governed by God’s eschatology."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	David, in order to better understand God’s purposes and his own place the"
+"rein, prayed: “LORD, make me to know mine end, and the measure of my days, what"
+" it is; that I may know how frail I am” (Ps. 39:4). David prayed that he might "
+"be ever mindful of himself as a frail creature. Frail, chadel, means frail, rej"
+"ected. David sees his own being as fallen; at best, it is still frail, and no p"
+"urpose of man’s can supplant God’s purpose. Therefore, David’s prayer is not go"
+"verned by any neoplatonic withdrawal but by a desire to serve God in terms of G"
+"od’s purpose. Not man’s eschatology but the Lord’s must govern us. Hence, David"
+" says:"
+msgstr ""
+
+##HTML: <blockquote >{{#c}}</blockquote>
+msgid "\n"
+"	\n"
+"		6. Surely every man walketh in a vain shew: surely they are disqui"
+"eted in vain: he heapeth up riches, and knoweth not who shall gather them.\n"
+""
+"	\n"
+"		7. And now, Lord, what wait I for? My hope is in thee. (Ps. 39:6-7)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The eschatologies of men are a “vain shew.” All their accomplishments and wealt"
+"h are nullified by death, and another man gathers of their labors. David’s hope"
+", however, is in the Lord, whose purposes alone prevail."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "\n"
+"	The goal of history, the meaning of eschatology, cannot be sought within "
+"history but only in God. Neither the Jew nor the church, nor the millennium, ar"
+"e the goals of God’s working, but only Himself, and His eternal Kingdom. God’s "
+"purpose in history far exceeds the salvation of man, or of the Jews. He is emph"
+"atic: “I am the LORD: that is my name: and my glory will I not give to another,"
+" neither my praise to graven images” (Isa. 42:8)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "If our doctrine of creation is weakened, then our doctrines of providence and e"
+"schatology are weakened. The word of God is a seamless garment; rending any par"
+"t thereof is damaging to all of it."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Taken from Systematic Theology in Two Volumes, p. 164f"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Eschatology, \n"
+"																	"
+"Reformed Thought, \n"
+"																	Theology"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

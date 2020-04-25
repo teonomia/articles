@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "The Gold StandardBy R. J. RushdoonyApril 13, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "(Reprinted from Bread upon the Waters: Columns from the California Farmer [Fair"
+"fax, VA: Thoburn Press, 1974], 81–82.) CA Farmer 229:5 (Sept. 7, 1968), p. 24."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "When God listed the charges against Judah that required judgment, one of the in"
+"dictments read, “Thy silver is become dross, thy wine mixed with water” (Isa. 1"
+":22). Fraud governed winemaking: the wine was mixed with water. Fraud also gove"
+"rned their money: the silver had given way to baser metals, to slugs."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Repeatedly, the Biblical law calls for just weights and just measures (Lev. 19:"
+"36; Deut. 25:15), and this refers not only to scales and bushels, but also to m"
+"oney. The shekel was not only a measure of weight but also of money, so a sheke"
+"l of gold or silver meant a certain weight of gold or silver. The American mone"
+"tary standard was built on the Biblical method, by weight. The major coin was t"
+"he $20 gold piece, called the double eagle: its weight is an ounce of .900 fine"
+" gold. The $10 gold piece is half an ounce, and so on down. People in Asia, Eur"
+"ope, and Africa did not know what a dollar, pound, franc, or mark meant, but th"
+"ey all knew weights, and a dependable weight of 22 carat gold was to be trusted"
+": it was real and honest money. American gold was thus very popular, as was Ame"
+"rican silver."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "A $20 gold piece used to cost the Treasury almost $20 in gold, plus labor. The "
+"paper money of today, Federal Reserve notes and U.S. banknotes cost perhaps a d"
+"ollar to print $100,000 worth. Is it any wonder modern governments get bigger a"
+"nd bigger since they discovered “instant money,” paper money? They can create t"
+"heir own money by borrowing or by printing and be the richest buyer in the mark"
+"et and the biggest employer."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The gold standard meant honest weights and honest measures. Paper money is an e"
+"ver-inflating and changing measure: it gives less and less security to people w"
+"ho save. It is a form of legalized robbery by which a central government can ha"
+"ve instant wealth and progressively crowd out the people and destroy their weal"
+"th. Paper money is a rubber yardstick."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "But our world today is full of rubber yardsticks, false standards, because the "
+"first and foremost measure or rule, the Bible, has been replaced by man’s word,"
+" a rubber yardstick. Men preach today, not the Word of God, but man’s word—thei"
+"r own political beliefs and opinions, self-help psychology, pleasing and entert"
+"aining sermons, anything and everything but the Word of God. Religiously, we ar"
+"e off the gold standard; our silver has become dross; we are on slugs."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "We should not be surprised, therefore, at the consequences. Every man is his ow"
+"n law, and the result is lawlessness, increasing anarchy and corruption. We nee"
+"d a return to the true measure of all things, God’s Word. “To the law and to th"
+"e testimony: if they speak not according to this word, it is because there is n"
+"o light in them” (Isa. 8:20)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: American History, \n"
+"																	Biblical Law, \n"
+"												"
+"					Christian Reconstruction, \n"
+"																	Church, The, \n"
+"								"
+"									Conspiracy, \n"
+"																	Culture , \n"
+"																	Econ"
+"omics, \n"
+"																	Government, \n"
+"																	Justice, \n"
+"		"
+"															Reformed Thought, \n"
+"																	Statism"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

@@ -1,0 +1,123 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "The Return to BarbarismBy R. J. RushdoonyJune 15, 2007"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "CA Farmer 238:1 (Jan. 6, 1973), p. 19."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Her home is a lovely one, in a superior neighborhood. She prides herself on bei"
+"ng a good parent, and she insists that her two teenage children bring in every "
+"kind of schoolmate, especially the ones who are regarded as socially unacceptab"
+"le, more or less delinquent, and wild. As a good liberal, this woman holds that"
+" she can help people by being good to them."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Recently, she returned home to find her place burglarized. Police said the thie"
+"ves obviously knew what was in the house and where to get it. Neighbors reporte"
+"d that some of the usual teenagers had been around the place, but the neighbors"
+" did not know that Mrs. B—— was gone."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The woman was not angry. In fact, she was more than a little thrilled and excit"
+"ed by it all. She was definitely not angry at whichever teenagers were guilty. "
+"Instead, she kept saying, What drove them to it? How terrible, she maintained, "
+"that our culture drives its greatest resource, youth, to such delinquency. We a"
+"re all guilty, she held, and we must all somehow make it up to our underprivile"
+"ged youth. If the thieves were caught, she would not prosecute. As each day pas"
+"sed, she developed a progressively more self-righteous glow over submitting to "
+"evil and then calling evil good."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The sad fact is that this is not an isolated case. I have run across three like"
+" situations recently. Worse than a thief is someone who justifies a thief and c"
+"alls evil good. The teenage thieves took some valuable property. The woman stru"
+"ck at the moral foundations of society by denying personal responsibility."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "To deny personal responsibility is to turn to paganism and barbarism. The savag"
+"e witch doctor, in diagnosing a sick man’s problem, held that someone had cast "
+"an evil spell on him, and whomever he named was killed. In this country, the Ir"
+"oquois Indians killed many innocent Indians whenever a medicine man accused som"
+"e tribal member of causing the illness of another. When liberals and sociologis"
+"ts blame society and our culture instead of the individual, they are turning th"
+"e clock back to barbarism."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Our politicians are doing the same. They tell us society is to blame, or the pa"
+"rents, or our supposedly animal past, and so on. The language is supposedly sci"
+"entific, but the meaning is the old barbarism of the witch doctor, of the days "
+"when a father was put to death for the crime of his son, and a child for the cr"
+"ime of his father. Sometimes a city was sentenced to death for the offense of o"
+"ne or two citizens."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "As against this, the Bible declares emphatically, as law for men and nations, “"
+"every man shall be put to death [that is, suffer punishment] for his own sin” ("
+"Deut. 24:16); “every one shall die for his own iniquity” (Jer. 31:30); “[t]he f"
+"athers shall not be put to death for the children, neither shall the children b"
+"e put to death for the fathers” (Deut. 24:16). To deny personal responsibility "
+"is to turn to paganism and barbarism."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Mrs. B—— feels that she is very enlightened and progressive. In reality, she mi"
+"ght as well run around naked with a piece of bone through her nose. Her thinkin"
+"g is on the level of the savages."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Statism, \n"
+"																	Just"
+"ice, \n"
+"																	Philosophy, \n"
+"																	Theology, \n"
+"			"
+"														Culture , \n"
+"																	Government, \n"
+"																"
+"	Major Prophets, \n"
+"																	Pentateuch, \n"
+"																	World "
+"History"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

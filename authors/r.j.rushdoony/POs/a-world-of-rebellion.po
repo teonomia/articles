@@ -1,0 +1,87 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "A World of RebellionBy R. J. RushdoonyNovember 28, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 261:7 (Nov. 3, 1984), p. 21E."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "One of the most common remarks that I have heard over the years has to do with "
+"people’s objections to something in the Bible or newspapers. “A good God couldn"
+"’t allow that to happen,” these people will say, very earnestly."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "What they mean is that God must be bound by their idea of goodness, and if He f"
+"ails to meet their standard, something is wrong with God! The truth is, somethi"
+"ng is wrong with these people and their standard of goodness."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "I am reminded of a spoiled child, who when denied his demands, screamed at his "
+"mother, “You don’t love me.” This child’s standard required he be gratified as "
+"proof of love. If the mother had met his requirements, she would have shown not"
+" love, but unconcern and even hatred."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "We have a world today in rebellion against God. Such a world is an evil and uns"
+"afe place: there are penalties for living in such a realm. We have a duty under"
+" God to bring this world into captivity to Christ. If we fail to do so, the pro"
+"blems and penalties only increase."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Our goal is defined throughout Scripture. Revelation 11:15 reveals the end resu"
+"lt must be the glorious proclamation of victory: “The kingdoms of this world ar"
+"e become the kingdoms of our Lord, and of his Christ; and he shall reign for ev"
+"er and ever.”"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Until then, the Lord will not allow this world to be a safe haven or an easy he"
+"aven for fallen man. We have locks on our doors because this is a fallen world,"
+" not heaven. There are thus risks in living here. More important, there are res"
+"ponsibilities to our Lord. Are you meeting them?"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Christian Reconstruction, \n"
+"																	Culture , \n"
+"								"
+"									Dominion, \n"
+"																	Reformed Thought"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

@@ -1,0 +1,81 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "ToleranceBy R. J. RushdoonyMarch 06, 2007"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 252:3 (Feb. 2, 1980), p. 50."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "When I moved some years ago into a major urban area, it took me a while to get "
+"used to street noises and night sounds. Because they were unfamiliar sounds, I "
+"heard them all. In a year’s time, I was so accustomed to them that I heard none"
+" of them."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Then, when I moved into this mountain area out in the country, I heard the coyo"
+"tes howling night after night. Very soon, I ceased to hear them. Last summer, w"
+"hen our daughter-in-law remarked about the nightly serenade by coyotes, I reali"
+"zed that I had not heard them for a few years: it was too familiar a night nois"
+"e for me to be conscious of, in the slightest degree."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Now this illustrates why we cannot use our feelings and experience as a test or"
+" standard. We readily develop a tolerance for many things. Our tolerance for po"
+"rnography, national corruption, profanity, and sin in general has greatly incre"
+"ased in the past generation. Things once held to be intolerable are now hardly "
+"noticed. What was once shocking on television, for example, is now tame fare, a"
+"nd what once destroyed a politician’s career is today no problem."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In brief, our level of tolerance is a false standard. This is why Isaiah declar"
+"es, “To the law and to the testimony: if they speak not according to this word,"
+" it is because there is no light in them” (Isa. 8:20). We cannot use our though"
+"ts and feelings as a standard: only God’s Word is the test. We ourselves readil"
+"y develop a tolerance towards sin and evil: God’s Word remains the unceasingly "
+"clear and uncompromising Word."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The result of becoming tolerant towards sin is that we become intolerant toward"
+"s God and His Word."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

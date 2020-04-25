@@ -1,0 +1,93 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "National DefenseBy R. J. RushdoonyNovember 06, 2006"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "California Farmer 263:4 (Sept. 21, 1985), p. 21."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Psalm 127 is about national defense. We are three times told that human efforts"
+" without God are “vain” or futile. The primary defense of a people is to make t"
+"he Lord the builder of the community. This means believing and obeying His law-"
+"word."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Then the Psalmist tells us that children are the best weapons system whereby we"
+" can command the future for the Lord. First, they are an inheritance from God, "
+"and a reward. Second, they are described as “arrows in the hand of a mighty man"
+",” as weapons of war. We are called to serve God and to be His instruments in h"
+"oly warfare so that the Kingdom of God might be established. A key weapon in th"
+"is warfare is the child."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "We are used to thinking of children in personal terms, in terms of our satisfac"
+"tion, carrying on the family name and work, and being a joy to us in our old ag"
+"e. All that is good, but here God tells us that children are above all the mean"
+"s whereby God’s Kingdom is furthered. They are weapons of war for the Kingdom o"
+"f God."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Third, we are told that men who rear godly children shall prosper. “[T]hey shal"
+"l speak with [or shall subdue, give judgments to] the enemies in the gate.” The"
+" city gate was the location of the market in those days, and also the city coun"
+"cil and court; all decisions and trials had to be open and public. When parents"
+" rear godly children, they dominate and govern both commerce and civil governme"
+"nt in due time."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In brief, we are told that godly homes and children are the best form of nation"
+"al defense. How strong are we as a people?"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Commentary, \n"
+"																	Biblical Law, \n"
+"									"
+"								Christian Reconstruction, \n"
+"																	Church, The, \n"
+"					"
+"												Culture , \n"
+"																	Dominion, \n"
+"																	Fam"
+"ily &amp; Marriage, \n"
+"																	Old Testament History, \n"
+"									"
+"								Reformed Thought"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

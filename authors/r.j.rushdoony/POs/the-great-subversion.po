@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "The Great SubversionBy R. J. RushdoonyOctober 14, 2005"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "(Reprinted from Bread Upon the Waters: Columns From The California Farmer [Fair"
+"fax, VA: Thoburn Press, 1974], 11–12.)"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In Rome, during the Second Punic War (218–201 B.C.), a secret and very powerful"
+" movement was accidentally discovered just in time to save Rome from a violent "
+"revolution and destruction. Most of Rome’s leadership had been marked for death"
+". This cult or revolutionary movement, Bacchanalia, had a simple creed: “The ho"
+"liest article of their faith was to think nothing a crime.” Members proved thei"
+"r faith by committing all kinds of sexual crimes."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Similar movements have appeared over and over again in history, and many which "
+"are centuries apart are still closely connected. Many such movements were stude"
+"nt movements. During the later middle ages, wandering students, who went from u"
+"niversity to university without ever really graduating, were known as Goliards."
+" These Goliards were what we would call folk-singers, and their music had a con"
+"tinual hostility to Christian morality and law. These students were more intere"
+"sted in destroying civilization than in studying, and many rarely saw a classro"
+"om."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In the 19th century Russia, the Nihilists, who believed in nothing but revoluti"
+"onary Socialism, were the radical students of the day. The men wore their hair "
+"very long, and the women cut their hair very short. Blue spectacles were often "
+"worn as a kind of badge. Everything about their appearance and conduct was calc"
+"ulated to be offensive and to show their contempt for and indifference to Chris"
+"tian faith and morality. The intellectuals of the day were very much in sympath"
+"y with these students."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "We have such students with us again. But, more than that, we now have universit"
+"ies dedicated to creating such students. In early May 1965, the Center for the "
+"Study of Democratic Institutions held a conference for 1400 college presidents,"
+" deans, professors, and trustees in Los Angeles. The speakers included Robert M"
+". Hutchins, Walter Lippman, U.S. Supreme Court Justice William O. Douglas, and "
+"U.C. President Clark Kerr. The feeling of the conference was that the universit"
+"y should spend less time on research and more on influencing voters and remakin"
+"g the country. And English educator Sir Eric Ashby emphasized as the first purp"
+"ose of any university revolution: “The true function of a university is not to "
+"preserve and consolidate the social status quo but to question and disrupt it.”"
+" The real purpose of education is thus continual revolution!"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The roots of this movement go back to Eden. Satan’s temptation was, “[Y]e shall"
+" be as gods, knowing good and evil” (Gen. 3:5). In other words, every man shall"
+" be his own god and his own law, knowing or deciding for himself what is good a"
+"nd evil. If there is no sovereign God over all creation, then there is no absol"
+"ute law over all. If there is no law, then there is no crime, and anything goes"
+". This is the simple foundation of all these movements: No God means no law and"
+" no crime; therefore, everything goes! All these and whoever stands with them. "
+"For the world is under God’s law, and St. Paul’s warning still stands: “Be not "
+"deceived; God is not mocked: for whatsoever a man soweth, that shall he also re"
+"ap” (Gal. 6:7)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	World History"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

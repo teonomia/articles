@@ -1,0 +1,117 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "CharityBy R. J. RushdoonyApril 24, 2017"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Adapted from In His Service: The Christian Calling to Charity"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The Christian faith once meant that a believer responded to a dark world by act"
+"ively working to bring God's grace and mercy to others, both by word and by dee"
+"d. However, a modern, self-centered church has isolated the faith to a pietism "
+"that relinquishes charitable responsibility to the state. The end result has be"
+"en the empowering of a humanistic world order."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "In addition, God's great and redeeming power is virtually limited to saving sou"
+"ls from eternal destruction. In Biblical terms, the priority is God's Kingdom f"
+"irst, and all our acts of mercy and benevolence must be in terms of that grand "
+"mission. We are God's servants-we dare not expect God to serve our needs ahead "
+"of His Kingdom."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "It is now difficult for the church to recover the Biblical meaning of words lik"
+"e charity and compassion because post-World War II liberalism has redefined the"
+"m politically into state welfarism. This redefinition has made charity a politi"
+"cal tool to retain social order and made the state the primary agency of compas"
+"sion. Charity is no longer personal."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "But Biblical compassion flows from our having first received the grace of God a"
+"nd then manifesting it to others. Therefore, Biblical charity-which is compassi"
+"on in action-is personal: it begins with God's mercy towards us, and then the p"
+"eople of God give expression to that at an individual level. It is in His servi"
+"ce that we understand our calling to charity."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The Christian calling to charity has implications for Godly dominion. In an age"
+" when Christian action is viewed in political terms, a return to Christian work"
+"s of compassion and Godly service will help usher in a return of the reign of G"
+"od as no piece of legislation ever could."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "A restoration of the Biblical diaconate ("deacon") ministry is needed in our ti"
+"me. The Biblical model of a decentralized order of government requires financia"
+"l support for charitable expression through Christian organizations that minist"
+"er in God's Name."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "However, Christian agencies are treated with hostility unless they become recip"
+"ients of state funds and limit their status by stressing humanistic concerns ra"
+"ther than the Gospel-any other concern represents a threat to statist rule. The"
+" problem is that Christian charity creates personal ties while impersonal welfa"
+"rism does not."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Because state welfarism is impersonal, it creates class hatred. Productive citi"
+"zens resent being taxed by compulsion while recipients resent their perpetual c"
+"ondition. Christian charity is personal-it creates bonds and leads to changed l"
+"ives."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "During Calvin's time, charity was made inseparable from worship, and Geneva car"
+"ed for the poor through a cooperative effort of church and state. Full-time dea"
+"cons-under the church's jurisdiction-administered the charity to the needy. Thi"
+"s was because Calvin believed that charity had to be an aspect of the life of f"
+"aith and dependent on "the voluntary spirit.""
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Rushdoony's objective was to help reestablish Christian theocracy through volun"
+"tary charity that flows from a heart redeemed by God's grace and compassion. "
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Charity"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+

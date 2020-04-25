@@ -1,0 +1,264 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: poJson 0.5.4\n"
+"Project-Id-Version: \n"
+"Language: pt-br\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+
+##HTML: <header >{{#c}}</header>
+msgid "The Religion of Fallen ManBy R. J. RushdoonyDecember 05, 2005"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "(Reprinted from Revolt Against Maturity: A Biblical Psychology of Man [Vallecit"
+"o, CA: Ross House Books, 1987], 134–139)."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Because man was created by God, man cannot escape God’s creating purpose. Even "
+"in his rebellion and in all his revolutionary activity, man manifests God’s pur"
+"poses, however much he may deform them. Man seeks to create a paradise, exercis"
+"e dominion, increase his knowledge, and, in many more ways, to manifest those a"
+"spects of God’s image in him which govern him in his culture and society. Among"
+" these aspects of man’s culture which reveal God’s purpose is religion. Since m"
+"an was created to glorify God and to enjoy Him forever, man cannot escape being"
+" a religious creature. In the state of depravity, however, man seeks a religiou"
+"s faith apart from God and in hostility to Him."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "True religion is God-centered; false religion is man-centered. The psalmist sta"
+"ted the difference vividly in Psalm 115:1–9:"
+msgstr ""
+
+##HTML: <ol type="1">{{#c}}</ol>
+msgid "Not unto us, O LORD, not unto us, but unto thy name give glory, for thy mercy, "
+"and for thy truth’s sake.Wherefore should the heathen say, Where is now their G"
+"od?But our God is in the heavens: he hath done whatsoever he hath pleased.Their"
+" idols are silver and gold, the work of men’s hands.They have mouths, but they "
+"speak not: eyes have they, but they see not:They have ears, but they hear not: "
+"noses have they, but they smell not:They have hands, but they handle not: feet "
+"have they, but they walk not: neither speak they through their throat.They that"
+" make them are like unto them; so is every one that trusteth in them.O Israel, "
+"trust thou in the LORD: he is their help and their shield."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The context of this psalm is a situation wherein Israel was being mocked for it"
+"s helplessness, and for its trust in the Lord.[1] The only god acceptable to th"
+"ese mockers was a god who met their demands, who gave them all glory as their c"
+"aptive power, or a bribed suzerain. While the psalmist pleads for deliverance, "
+"and a confounding of the heathen nations’ contempt for God (v. 2), his emphatic"
+" and opening cry is that the glory be the Lord’s, never man’s."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The idols of the nations are described with contempt. God the Lord reigns in he"
+"aven over all things: “He does whatever He pleases” (v. 3; Leupold). In humanis"
+"tic religions, the purpose of the gods is to please man; in true religion, God "
+"is not governed by man but governs him; in every age and in every situation, He"
+" does whatever He pleases."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The fabricated gods are dead gods; “they cannot even make the faintest and most"
+" inarticulate gutteral [sic] noise, like the lower animals; much less speak as "
+"men do.”[2] The obvious fact about idols is that they are lifeless and meaningl"
+"ess creatures, unable to do anything. The psalmist’s climactic point is that “T"
+"hey that make them are like unto them; so is everyone that trusteth in them” (v"
+". 8). According to Alexander, “How formidable now, they shall hereafter be as p"
+"owerless and senseless as the gods they worship.”[3] Another point needs to be "
+"added: not only is the future destiny of humanists this radical impotence, but "
+"they are impotent even now in their seeming power. Because God is the Lord, all"
+" their words add up only to a radical frustration and impotence."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The futility of humanistic or man-centered religion is that, although man is th"
+"e problem, it still seeks its answer in man. This is like asking a murderer to "
+"be a doctor, or a rapist to guard a woman’s virtue."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The newspapers daily give us examples of humanistic religious faith. Thus, a ma"
+"jor newspaper carried an analysis of welfare by [Irving] Kristol, who reviewed "
+"Alexis de Tocqueville’s “Essay on Pauperism” of 1835. Tocqueville found that we"
+"lfarism grows most rapidly in wealthier countries. Moreover, because wealthier "
+"countries are more likely to have welfare grants and to be more liberal, they b"
+"ring into play man’s sinful nature. According to Tocqueville:"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "There are two incentives to work: the need to live and the desire to improve th"
+"e conditions of life. Experience has proven that the majority of men can be suf"
+"ficiently motivated to work only by the first of these incentives. The second i"
+"s only effective with a small minority…. A law which gives all the poor a right"
+" to public aid, whatever the origin of their poverty, weakens or destroys the f"
+"irst stimulant and leaves only the second intact."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Tocqueville’s perspective reflected the Christian view of man. Kristol immediat"
+"ely noted the religious presuppositions which separated him from Tocqueville an"
+"d cited them plainly:"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "At this point, we are bound to draw up short and take our leave of Tocqueville."
+" Such gloomy conclusions, derived from a less than benign view of human nature,"
+" do not recommend themselves to the 20th century political imagination or to th"
+"e American political temperament. We do not like to think that our instances of"
+" social compassion might have dismal consequences — not accidentally but inexor"
+"ably. We simply cannot believe that the universe is so constituted."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "We much prefer, if choice has to be made, to have a good opinion of mankind and"
+" a poor opinion of our socio-economic system.[4]"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "If man is good by nature, evil must come from “the system” or the environment; "
+"if man is a sinner, then evil must come from the heart of man. The issue is rel"
+"igious, and welfarism is a humanistic plan of salvation."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "For another example of humanistic faith, let us turn to Tom Braden, who is deep"
+"ly concerned over the moral decline in the United States during the 1960s. Who "
+"could have imagined in 1960 the violence and lawlessness which we have witnesse"
+"d in the past ten years, he asks? “Have we lost our belief that reasonable man "
+"may dispute the truth and thereby redefine it? Have we lost our sense of respon"
+"sibility toward one another and toward the community as a whole? Or have we all"
+" gone crazy?” The root of the problem, Braden holds, is “the use of disorder, o"
+"r antilaw, as a weapon,” and this “is rapidly becoming a moral problem in itsel"
+"f.” Braden’s answer is revealing:"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Perhaps we need a new moral code or a new education or, as Henry Adams once sug"
+"gested, a new social mind. Every generation of Americans has struggled to attai"
+"n and apply power, and every generation has worried about the power it created."
+" But in 1971, we seem suddenly to be confronted with the complexities in the us"
+"e of that power which we did not imagine even 10 years ago."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Unless we can agree upon a morality which will unite us in dealing with them, w"
+"e may be looking back, 10 years from now, on a decade that was violently coerci"
+"ve.[5]"
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Braden shows us why we have had a moral crisis. He believes that “reasonable me"
+"n may dispute the truth and thereby redefine it.” He wants “a new moral code,” "
+"and he believes that men can possibly “agree upon a morality which will unite u"
+"s” and enable us to cope with our problems. The root of the moral problem is hu"
+"manism, and Braden’s answer is more humanism."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Man being a sinner, when he substitutes a do-it-yourself religion and a man-mad"
+"e morality for God’s Word, his substitute becomes sin made into a system. The r"
+"evolutionary activities and movements of the 20th century, and of the modern er"
+"a, have been intensely religious and thoroughly humanistic. Their net result ha"
+"s been to make every man his own god and law. Not surprisingly, this has led to"
+" totalitarian statism and what Braden calls “violently coercive” measures to av"
+"oid anarchy."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "But Braden will not see that his own principles produce the moral anarchy, the "
+"disorder and the antilaw, which he deplores. To do so would require him to fors"
+"ake his humanism, and this in principle he will not do. The problem with humani"
+"sts is not a lack of intelligence but a willful self-blinding. In his religious"
+" quest, the humanist refuses to look beyond himself for his god. The more he in"
+"tensifies his quest, the more he becomes, like the idols described by the psalm"
+"ist, speechless, mindless, and senseless. Not surprisingly, the heart of mystic"
+"ism, a form of humanistic religion, is this same speechless, mindless, and sens"
+"eless experience. The mystic calls for the exclusion of the external world, doc"
+"trine, revelation, and outer experience for total concentration on an inward bl"
+"ankness. The Hindu mystic declares, “Thou are that,” i.e., the mystic is himsel"
+"f one with the ultimate power and is the ultimate power."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "For humanism, man’s religious consciousness and man’s psychology is the real so"
+"urce of religious knowledge and revelation. The true word comes out of man, and"
+" therefore man’s experience needs to be developed. Religion then ceases to be “"
+"Thus saith the Lord,” the Word of God, but rather becomes, “Thus say I,” the wo"
+"rd according to man."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Because humanism ascribes the word of truth to man, it must of necessity ascrib"
+"e to the source of revelation the power to meet its own revealed word. If human"
+"istic man says that the answer to world problems is love and pacifism, he then "
+"logically believes that his revealed truth, love, can also overcome war and hat"
+"red and inaugurate world peace. Man’s world becomes the word of power because i"
+"t is the word of truth. The capacity for self-reform is assumed to be great and"
+" even limitless. In Boston’s phrase, it is implicit in such thinking that a man"
+" can “leap out of Delilah’s lap, into Abraham’s bosom.”[6] But the sinner canno"
+"t reform himself to please God, only to please himself. “The unrenewed will is "
+"wholly perverse, in reference to man’s chief and highest end. The natural man’s"
+" chief end is not God, but himself.”[7] For such men, God is “[t]he means, and "
+"self their end; yea, their chief end,”[8] if they allow God into their thinking"
+" at all."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "The religion of humanistic man aggravates and furthers his fall, and it intensi"
+"fies and develops his depravity."
+msgstr ""
+
+##HTML: <div >{{#c}}</div>
+msgid "[1] H.C. Leupold, Exposition of the Psalms (Columbus, OH: The Wartburg Press, 1"
+"959), 798.[2] Joseph Addison Alexander, The Psalms, Translated and Explained (G"
+"rand Rapids: Zondervan, reprint of 1864 edition), 470.[3] Ibid.[4] Irving Krist"
+"ol, “Welfare: Best Intentions, Worst Results,” Los Angeles Times, Sunday, Augus"
+"t 1, 1971, Section I, p. 1; the article was originally published in The Atlanti"
+"c.[5] Tom Braden, “What We Have Lost in the Past Ten Years,” in Woodland Hills "
+"Chronicle, Thursday, July 1, 1971, Citizens News Publications, Canoga Park, Cal"
+"ifornia.[6] Thomas Boston, Human Nature in Its Fourfold State, 53.[7]Ibid., 74."
+"[8]Ibid., 71."
+msgstr ""
+
+##HTML: <p >{{#c}}</p>
+msgid "Topics: Biblical Law, \n"
+"																	Statism, \n"
+"																	Just"
+"ice, \n"
+"																	Philosophy, \n"
+"																	Theology, \n"
+"			"
+"														Culture , \n"
+"																	Biblical Commentary, \n"
+"							"
+"										Poetry &amp; Wisdom Literature, \n"
+"																	World History"
+msgstr ""
+
+##HTML: <div class="detail-authorsListing">{{#c}}</div>
+msgid "R. J. RushdoonyRev. R.J. Rushdoony (1916–2001), was a leading theologian, churc"
+"h/state expert, and author of numerous works on the application of Biblical law"
+" to society. He started the Chalcedon Foundation in 1965. His Institutes of Bib"
+"lical Law (1973) began the contemporary theonomy movement which posits the vali"
+"dity of Biblical law as God’s standard of obedience for all. He therefore saw G"
+"od’s law as the basis of the modern Christian response to the cultural decline,"
+" one he attributed to the church’s false view of God’s law being opposed to His"
+" grace. This broad Christian response he described as “Christian Reconstruction"
+".” He is credited with igniting the modern Christian school and homeschooling m"
+"ovements in the mid to late 20th century. He also traveled extensively lecturin"
+"g and serving as an expert witness in numerous court cases regarding religious "
+"liberty. Many ministry and educational efforts that continue today, took their "
+"philosophical and Biblical roots from his lectures and books.\n"
+"										&ra"
+"rr; More by R. J. Rushdoony"
+msgstr ""
+
