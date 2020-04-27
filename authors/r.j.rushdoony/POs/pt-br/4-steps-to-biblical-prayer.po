@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2020-04-27 01:45+0000\n"
-"Last-Translator: alvaro separovich <alvasepro@gmail.com>\n"
+"PO-Revision-Date: 2020-04-27 01:54+0000\n"
+"Last-Translator: user <user@example.com>\n"
 "Language-Team: Portuguese (Brazil) <http://example.com/projects/"
 "r-j-rushdoony-articles/main/pt_BR/>\n"
 "Language: pt-br\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 ##HTML: <header >{{#c}}</header>
 msgid "4 Steps to Biblical PrayerBy R. J. RushdoonyFebruary 20, 2014"
-msgstr "4 passos para a oração bíblicaPor"
+msgstr "4 passos para a oração bíblicaPor r j rush"
 
 ##HTML: <p >{{#c}}</p>
 msgid "Taken from Rushdoony's Systematic Theology in Two Volumes, p. 154"
